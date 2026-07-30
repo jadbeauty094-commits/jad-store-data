@@ -1,0 +1,37 @@
+name: تحديث يومي لملف المنتجات
+
+on:
+  schedule:
+    # يومياً الساعة 08:00 UTC = 11:00 صباحاً بتوقيت سوريا
+    - cron: '0 8 * * *'
+  # يتيح تشغيله يدوياً من واجهة GitHub Actions
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: سحب المستودع
+        uses: actions/checkout@v4
+
+      - name: تثبيت Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: تثبيت مكتبة Firebase Admin
+        run: npm install firebase-admin
+
+      - name: جلب المنتجات وتوليد JSON
+        run: node .github/scripts/generate-products.js
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+
+      - name: رفع الملف الجديد إلى المستودع
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add products.json
+          git diff --staged --quiet || git commit -m "تحديث المنتجات $(date +'%Y-%m-%d %H:%M')"
+          git push
