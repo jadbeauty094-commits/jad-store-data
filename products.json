@@ -7212,20 +7212,6 @@
     "subCategory": "مكياج وجه"
   },
   {
-    "id": "W5cjf1kqUymXF1z6mbVj",
-    "name": "تحريبي",
-    "category": "cottons",
-    "subCategory": "رجالي",
-    "costUSD": 55,
-    "retailMargin": 0,
-    "manualRetailSYP": 0,
-    "discountRetailPercent": 0,
-    "desc": ".....",
-    "status": "عرض خاص",
-    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785523112/vezjcxsxdoxflnknxdyi.jpg",
-    "roundTo": 1
-  },
-  {
     "id": "W5yHeSvjvvGrVtXx5NIy",
     "desc": "",
     "category": "jad_oil_wholesale",
@@ -7979,20 +7965,6 @@
     "status": "متوفر",
     "imageUrl": "https://i.ibb.co/wZPf00pb/IMG.jpg",
     "subCategory": "عناية صحية"
-  },
-  {
-    "id": "Yu4Ukk8Vx6CKdXw4E9T3",
-    "name": "ت١",
-    "category": "cottons",
-    "subCategory": "ولادي",
-    "costUSD": 99,
-    "retailMargin": 0,
-    "manualRetailSYP": 0,
-    "discountRetailPercent": 0,
-    "desc": "لا يوجد وصف",
-    "status": "متوفر",
-    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785523938/wkeblzqoajcveoek54ad.jpg",
-    "roundTo": 1
   },
   {
     "id": "YyWvE9O95GeooHmtTDR5",
@@ -10904,6 +10876,20 @@
     "status": "متوفر",
     "imageUrl": "https://i.ibb.co/LdW3gGnp/IMG.jpg",
     "subCategory": "عناية صحية"
+  },
+  {
+    "id": "lwwVWIbddlGSMMtEw5hE",
+    "name": "ييييييييييييييييي",
+    "category": "cottons",
+    "subCategory": "ولادي",
+    "costUSD": 33,
+    "retailMargin": 0,
+    "manualRetailSYP": 0,
+    "discountRetailPercent": 0,
+    "desc": "سشيشسيشسي",
+    "status": "متوفر",
+    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785531718/qbpez2mq2bmttuh14bpa.jpg",
+    "roundTo": 1
   },
   {
     "id": "m0s5u5ajj53GgP5gRriG",
