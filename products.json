@@ -1713,6 +1713,20 @@
     "subCategory": "زيوت شركة cbl الفرنسية"
   },
   {
+    "id": "7gUcyU8Bv1WOwtJLzfjL",
+    "name": "عطر تشاستتي رجالي جاهز 100 مل",
+    "category": "ready_perfumes",
+    "subCategory": "",
+    "costUSD": 9.5,
+    "retailMargin": 0,
+    "manualRetailSYP": 0,
+    "discountRetailPercent": 0,
+    "desc": "",
+    "status": "متوفر",
+    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785669885/lxjbbhsi4hsq5ldrpdoc.webp",
+    "roundTo": 1
+  },
+  {
     "id": "7hTat2y3au3kFUVgk1a7",
     "name": "تخطيط حواجب اني كلاين",
     "costUSD": 1.5238,
@@ -5720,6 +5734,20 @@
     "imageUrl": "https://i.ibb.co/9H5Y7DzN/IMG-20260706-141820.jpg"
   },
   {
+    "id": "PmTm0Bii4dvl3HwMfzcN",
+    "name": "عطر بلو فور مان رصاصي جاهز 100 مل",
+    "category": "ready_perfumes",
+    "subCategory": "",
+    "costUSD": 9.5,
+    "retailMargin": 0,
+    "manualRetailSYP": 0,
+    "discountRetailPercent": 0,
+    "desc": "",
+    "status": "متوفر",
+    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785669746/bdbdp8dqbqwq1rdapurv.webp",
+    "roundTo": 1
+  },
+  {
     "id": "PtQD8YaqoKYc5WToyPdl",
     "name": "سيروم بشرة سويتي 40 مل",
     "category": "beauty_care",
@@ -6009,7 +6037,7 @@
     "costUSD": 1.275,
     "roundTo": 1,
     "category": "electronics",
-    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785245615/v1eztmyhwmgbhuitzmpi.jpg"
+    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785670039/it5jvmtd265pr9phfjou.webp"
   },
   {
     "id": "R7bx7XzoMKYiGupQQeio",
@@ -7121,6 +7149,20 @@
     "category": "makeup"
   },
   {
+    "id": "ViCFit1a1Rpa1EZ81GYM",
+    "name": "بودرة تبييض الاسنان هايلورونيك اسيد",
+    "category": "beauty_care",
+    "subCategory": "عناية صحية",
+    "costUSD": 1,
+    "retailMargin": 0,
+    "manualRetailSYP": 0,
+    "discountRetailPercent": 0,
+    "desc": "بودرة تبييض الاسنان بالهايلورونيك اسيد لمعالجة تراجع اللثة والحفاض على اسنان ناصعة بيضاء ولثة قوية صحية",
+    "status": "متوفر",
+    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785669474/mrcqgqtazq0j6ww2snnb.webp",
+    "roundTo": 1
+  },
+  {
     "id": "VlYGmaDWdoMT1UeJB7sZ",
     "imageUrl": "https://i.ibb.co/PZxX5wgd/IMG.jpg",
     "name": "زيت امور امور CBL",
@@ -7888,6 +7930,20 @@
     "name": "زيت جي جورجيو 12 فرنسي شارابوت او سوزيو"
   },
   {
+    "id": "YUzW3WqKT9I1yuP1DOhw",
+    "name": "عطر رويال بلو رصاصي جاهز 75 مل",
+    "category": "ready_perfumes",
+    "subCategory": "",
+    "costUSD": 9.5,
+    "retailMargin": 0,
+    "manualRetailSYP": 0,
+    "discountRetailPercent": 0,
+    "desc": "",
+    "status": "متوفر",
+    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785669987/tsgkk09ooxcwcchpyvsa.webp",
+    "roundTo": 1
+  },
+  {
     "id": "YVxmcSikGG6Dx9K1ZgzI",
     "discountRetailPercent": 0,
     "desc": "",
@@ -8072,6 +8128,20 @@
     "desc": "",
     "status": "متوفر",
     "imageUrl": "https://i.ibb.co/RkbCJp7W/IMG.jpg"
+  },
+  {
+    "id": "ZKvSVsk65brktxAzpCeA",
+    "name": "عطر بلو فور مان رصاصي جاهز 100 مل",
+    "category": "ready_perfumes",
+    "subCategory": "",
+    "costUSD": 9.5,
+    "retailMargin": 0,
+    "manualRetailSYP": 0,
+    "discountRetailPercent": 0,
+    "desc": "",
+    "status": "متوفر",
+    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785669746/bdbdp8dqbqwq1rdapurv.webp",
+    "roundTo": 1
   },
   {
     "id": "ZLCBHkojRXYMj0thdwrx",
