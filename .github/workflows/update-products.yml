@@ -1,9 +1,7 @@
-name: تحديث يومي لملف المنتجات
+name: تصدير المنتجات يدوياً (احتياطي)
 
 on:
-  schedule:
-    - cron: '0 8 * * *'
-  workflow_dispatch:
+  workflow_dispatch:   # تشغيل يدوي فقط من واجهة GitHub
 
 jobs:
   build:
@@ -18,10 +16,10 @@ jobs:
         with:
           node-version: '18'
 
-      - name: تثبيت مكتبة Firebase Admin
+      - name: تثبيت Firebase Admin
         run: npm install firebase-admin
 
-      - name: جلب المنتجات وتوليد JSON
+      - name: جلب المنتجات وتوليد products.json
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
         run: |
@@ -30,36 +28,27 @@ jobs:
           const fs = require("fs");
 
           const serviceAccount = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT);
-
-          admin.initializeApp({
-            credential: admin.credential.cert(serviceAccount)
-          });
-
+          admin.initializeApp({ credential: admin.credential.cert(serviceAccount) });
           const db = admin.firestore();
 
           async function exportProducts() {
-            try {
-              const snapshot = await db.collection("products").get();
-              const products = [];
-              snapshot.forEach(doc => {
-                products.push({ id: doc.id, ...doc.data() });
-              });
-
-              fs.writeFileSync("products.json", JSON.stringify(products, null, 2));
-              console.log("Done! Created products.json with " + products.length + " items.");
-            } catch (error) {
-              console.error("Error:", error);
-              process.exit(1);
-            }
+            const snapshot = await db.collection("products").get();
+            const products = [];
+            snapshot.forEach(doc => products.push({ id: doc.id, ...doc.data() }));
+            fs.writeFileSync("products.json", JSON.stringify(products, null, 2));
+            console.log("✅ products.json تم إنشاؤه بـ " + products.length + " منتج");
           }
 
-          exportProducts();
+          exportProducts().catch(err => {
+            console.error(err);
+            process.exit(1);
+          });
           '
 
-      - name: رفع الملف الجديد إلى المستودع
+      - name: رفع products.json للمستودع
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add products.json
-          git commit -m "Automated update of products.json" || exit 0
+          git commit -m "تحديث يدوي للمنتجات من Firestore" || exit 0
           git push
