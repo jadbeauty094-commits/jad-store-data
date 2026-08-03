@@ -14454,19 +14454,5 @@
     "desc": "",
     "retailMargin": 0,
     "category": "deodorants_splash"
-  },
-  {
-    "id": "wr9Qnduw29zRL7hHhFLa",
-    "name": "لوفي",
-    "category": "cottons",
-    "subCategory": "نسائي",
-    "costUSD": 6000,
-    "retailMargin": 0,
-    "manualRetailSYP": 0,
-    "discountRetailPercent": 0,
-    "desc": "تجريب",
-    "status": "متوفر",
-    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785720933/avpogwsqbtckrohuyalk.webp",
-    "roundTo": 1
   }
 ]
