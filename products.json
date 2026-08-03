@@ -14454,19 +14454,5 @@
     "costUSD": 0.3924,
     "desc": "",
     "status": "متوفر"
-  },
-  {
-    "id": "lvbz3ZfgdCIioUcznrfn",
-    "name": "باربي",
-    "category": "cottons",
-    "subCategory": "رجالي",
-    "costUSD": 23,
-    "retailMargin": 0,
-    "manualRetailSYP": 0,
-    "discountRetailPercent": 0,
-    "desc": "ثثثثثثثثثثثثثثثثثثثثثث",
-    "status": "متوفر",
-    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785738029/sd6kc9vk3nomevvm1avr.webp",
-    "roundTo": 1
   }
 ]
