@@ -14454,5 +14454,19 @@
     "desc": "",
     "discountRetailPercent": 0,
     "status": "متوفر"
+  },
+  {
+    "id": "TBhZkq6uLmOoIKLiHwla",
+    "name": "جورج",
+    "category": "cottons",
+    "subCategory": "نسائي",
+    "costUSD": 12,
+    "retailMargin": 0,
+    "manualRetailSYP": 0,
+    "discountRetailPercent": 0,
+    "desc": "",
+    "status": "متوفر",
+    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785729269/rtqyv7y3wlnzn6moegxr.webp",
+    "roundTo": 1
   }
 ]
