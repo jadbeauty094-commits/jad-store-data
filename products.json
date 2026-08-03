@@ -14454,5 +14454,19 @@
     "desc": "",
     "retailMargin": 0,
     "category": "deodorants_splash"
+  },
+  {
+    "id": "JWifrshuDzSub5756A9C",
+    "name": "جمولتي",
+    "category": "cottons",
+    "subCategory": "ولادي",
+    "costUSD": 2323,
+    "retailMargin": 0,
+    "manualRetailSYP": 0,
+    "discountRetailPercent": 0,
+    "desc": "",
+    "status": "متوفر",
+    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785718080/yksdbnpnrsmoh1ycuulk.webp",
+    "roundTo": 1
   }
 ]
