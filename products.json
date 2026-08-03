@@ -14454,19 +14454,5 @@
     "desc": "",
     "retailMargin": 0,
     "category": "deodorants_splash"
-  },
-  {
-    "id": "1it7IrSzp7oPhLpK9PjT",
-    "name": "جمال",
-    "category": "cottons",
-    "subCategory": "رجالي",
-    "costUSD": 222233333,
-    "retailMargin": 0,
-    "manualRetailSYP": 0,
-    "discountRetailPercent": 0,
-    "desc": "تجريب",
-    "status": "متوفر",
-    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785717729/a49enqwnafvdteqp2bgt.webp",
-    "roundTo": 1
   }
 ]
