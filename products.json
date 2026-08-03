@@ -14462,7 +14462,7 @@
     "subCategory": "",
     "costUSD": 12,
     "retailMargin": 80,
-    "manualRetailSYP": 0,
+    "manualRetailSYP": 99000,
     "discountRetailPercent": 0,
     "desc": "تجريب",
     "status": "متوفر",
