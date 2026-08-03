@@ -14454,5 +14454,19 @@
     "desc": "",
     "discountRetailPercent": 0,
     "status": "متوفر"
+  },
+  {
+    "id": "EQjnEigRl6HSsnHfk2lI",
+    "name": "بغداد",
+    "category": "cottons",
+    "subCategory": "نسائي",
+    "costUSD": 12,
+    "retailMargin": 0,
+    "manualRetailSYP": 0,
+    "discountRetailPercent": 0,
+    "desc": "صبصثبص",
+    "status": "متوفر",
+    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785729650/faewrmxdpgw2dh6riujv.webp",
+    "roundTo": 1
   }
 ]
