@@ -12493,6 +12493,20 @@
     "discountRetailPercent": 0
   },
   {
+    "id": "rNjPZ5t352BrSo7easTv",
+    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785721188/uocihr3c8ergubmgnv45.webp",
+    "costUSD": 8000,
+    "discountRetailPercent": 0,
+    "subCategory": "نسائي",
+    "retailMargin": 0,
+    "name": "لوفي",
+    "roundTo": 1,
+    "desc": "",
+    "manualRetailSYP": 9000,
+    "status": "متوفر",
+    "category": "cottons"
+  },
+  {
     "id": "rNrPUjpIRVCnHMFHWzKL",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785226223/himhztptqtvhyd2f5eui.jpg",
     "costUSD": 0,
