@@ -398,6 +398,20 @@
     "category": "makeup"
   },
   {
+    "id": "2EkwrhzrDb6xeOXiIXU9",
+    "status": "متوفر",
+    "category": "cottons",
+    "retailMargin": 80,
+    "costUSD": 12,
+    "desc": "تجريب",
+    "subCategory": "",
+    "manualRetailSYP": 99000,
+    "name": "لوفي",
+    "roundTo": 5,
+    "discountRetailPercent": 0,
+    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785721559/d2mrg8ns1uv2kbhnbp8k.webp"
+  },
+  {
     "id": "2OuwLkfbELqkAhr65RbL",
     "name": "رويال بلو نسائي رصاصي",
     "status": "متوفر",
