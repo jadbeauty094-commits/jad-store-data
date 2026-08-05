@@ -14468,5 +14468,19 @@
     "status": "متوفر",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785920257/m6gouyiomob6skzwjcgc.webp",
     "roundTo": 1
+  },
+  {
+    "id": "Jv9Ja3pB4WvlYduoodTJ",
+    "name": "ستيك بلاشر سحري kiss beauty",
+    "category": "makeup",
+    "subCategory": "مكياج وجه",
+    "costUSD": 1.0833,
+    "retailMargin": 0,
+    "manualRetailSYP": 0,
+    "discountRetailPercent": 0,
+    "desc": "",
+    "status": "متوفر",
+    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785920523/thlifboeoivavrzqe4hn.webp",
+    "roundTo": 1
   }
 ]
