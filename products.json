@@ -3165,16 +3165,17 @@
   },
   {
     "id": "DjRck1mOyzGvsy97yEvH",
-    "subCategory": "سبلاش",
+    "subCategory": "",
     "name": "سبلاش تيك توك 250 مل",
-    "costUSD": 2.25,
+    "costUSD": 2.0833,
     "manualRetailSYP": 0,
     "retailMargin": 0,
     "discountRetailPercent": 0,
     "category": "deodorants_splash",
     "desc": "",
     "status": "متوفر",
-    "imageUrl": "https://i.ibb.co/jvvrwnBr/IMG.jpg"
+    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785924691/wjr9esijrvfm3eeiepey.webp",
+    "roundTo": 1
   },
   {
     "id": "DlYDOAu5ZtqQooI56tTv",
