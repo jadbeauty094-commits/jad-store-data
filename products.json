@@ -14484,5 +14484,19 @@
     "status": "متوفر",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785920523/thlifboeoivavrzqe4hn.webp",
     "roundTo": 1
+  },
+  {
+    "id": "RzCKr3uUilEyoRYxsQ0u",
+    "name": "صابون جونسون كرتون 75 غ",
+    "category": "beauty_care",
+    "subCategory": "عناية صحية",
+    "costUSD": 0.6092,
+    "retailMargin": 0,
+    "manualRetailSYP": 0,
+    "discountRetailPercent": 0,
+    "desc": "",
+    "status": "متوفر",
+    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785925052/rnswbzqkboxg5xznomna.webp",
+    "roundTo": 1
   }
 ]
