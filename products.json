@@ -11313,7 +11313,7 @@
   {
     "id": "mPAGCgLHlKkbeTcAVqT4",
     "subCategory": "",
-    "name": "ديدورانت رصاصي 200 مل",
+    "name": "ديدوران رصاصي 200 مل",
     "status": "متوفر",
     "manualRetailSYP": 0,
     "discountRetailPercent": 0,
@@ -11322,7 +11322,7 @@
     "imageUrl": "https://i.ibb.co/8gZKBGZc/IMG.jpg",
     "desc": "",
     "retailMargin": 0,
-    "category": "deodorants_splash"
+    "category": ""
   },
   {
     "id": "mW9yYy1eoPdUtZAOGkuD",
@@ -14497,6 +14497,20 @@
     "desc": "",
     "status": "متوفر",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785925052/rnswbzqkboxg5xznomna.webp",
+    "roundTo": 1
+  },
+  {
+    "id": "Hv2XDCYSvgBx6uzlwz19",
+    "name": "ظرف ميش ايطالي ازرق",
+    "category": "hair_dyes",
+    "subCategory": "مواد للصبغة",
+    "costUSD": 0.1428,
+    "retailMargin": 0,
+    "manualRetailSYP": 0,
+    "discountRetailPercent": 0,
+    "desc": "",
+    "status": "متوفر",
+    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785925793/feymoqitqkvn71nvs7hj.webp",
     "roundTo": 1
   }
 ]
