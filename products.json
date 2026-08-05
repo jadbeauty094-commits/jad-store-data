@@ -5345,13 +5345,14 @@
     "imageUrl": "https://i.ibb.co/S7cjd034/IMG.jpg",
     "desc": "",
     "manualRetailSYP": 0,
-    "subCategory": "مزيل تعرق",
+    "subCategory": "",
     "category": "deodorants_splash",
     "retailMargin": 0,
     "name": "ديدوران ريكسونا ايطالي",
     "discountRetailPercent": 0,
     "status": "متوفر",
-    "costUSD": 2.25
+    "costUSD": 2.475,
+    "roundTo": 1
   },
   {
     "id": "N0WleL4eY2shLBJOUE11",
@@ -11317,7 +11318,7 @@
     "manualRetailSYP": 0,
     "discountRetailPercent": 0,
     "roundTo": 1,
-    "costUSD": 1.9167,
+    "costUSD": 2,
     "imageUrl": "https://i.ibb.co/8gZKBGZc/IMG.jpg",
     "desc": "",
     "retailMargin": 0,
