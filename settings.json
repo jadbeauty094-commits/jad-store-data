@@ -8,25 +8,25 @@
       "retailMargin": 15
     },
     "chocolates_accessories": {
+      "retailMargin": 25,
       "roundTo": 1,
-      "discountRetailPercent": 0,
-      "retailMargin": 25
+      "discountRetailPercent": 0
     },
     "cosmetics": {
-      "wholesaleMargin": 15,
       "discountWholesalePercent": 0,
-      "retailMargin": 15,
-      "discountRetailPercent": 0
+      "wholesaleMargin": 15,
+      "discountRetailPercent": 0,
+      "retailMargin": 15
     },
     "cottons": {
-      "retailMargin": 0,
+      "discountRetailPercent": 0,
       "roundTo": 1,
-      "discountRetailPercent": 0
+      "retailMargin": 0
     },
     "daily_new": {
       "retailMargin": 0,
-      "roundTo": 1,
-      "discountRetailPercent": 0
+      "discountRetailPercent": 0,
+      "roundTo": 1
     },
     "daily_offers": {
       "discountRetailPercent": 0,
@@ -44,60 +44,60 @@
       "discountRetailPercent": 0
     },
     "gift_wrapping": {
-      "discountRetailPercent": 0,
       "retailMargin": 15,
-      "roundTo": 1
+      "roundTo": 1,
+      "discountRetailPercent": 0
     },
     "hair_dyes": {
+      "roundTo": 1,
       "retailMargin": 15,
-      "discountRetailPercent": 0,
-      "roundTo": 1
+      "discountRetailPercent": 0
     },
     "jad_oil_wholesale": {
-      "discountRetailPercent": 0,
       "retailMargin": 0,
-      "roundTo": 1
+      "roundTo": 1,
+      "discountRetailPercent": 0
     },
     "jad_perfumes": {
-      "retailMargin": 0,
+      "roundTo": 1,
+      "discountRetailPercent": 0,
+      "retailMargin": 0
+    },
+    "lingerie": {
+      "discountWholesalePercent": 0,
+      "discountRetailPercent": 0,
+      "wholesaleMargin": 0,
+      "retailMargin": 12
+    },
+    "makeup": {
+      "retailMargin": 15,
       "discountRetailPercent": 0,
       "roundTo": 1
     },
-    "lingerie": {
-      "wholesaleMargin": 0,
-      "discountRetailPercent": 0,
-      "retailMargin": 12,
-      "discountWholesalePercent": 0
-    },
-    "makeup": {
-      "roundTo": 1,
-      "retailMargin": 15,
-      "discountRetailPercent": 0
-    },
     "perfumes": {
+      "discountRetailPercent": 0,
       "discountWholesalePercent": 0,
-      "retailMargin": 20,
       "wholesaleMargin": 0,
-      "discountRetailPercent": 0
+      "retailMargin": 20
     },
     "ready_perfumes": {
-      "roundTo": 1,
       "discountRetailPercent": 0,
-      "retailMargin": 15
+      "retailMargin": 15,
+      "roundTo": 1
     }
   },
   "subCategorySettings": {
     "زيوت شركة cbl الفرنسية": {
-      "category": "jad_oil_wholesale",
-      "retailMargin": 70
+      "retailMargin": 70,
+      "category": "jad_oil_wholesale"
     },
     "زيوت شركة اروما سنت الانكليزية": {
       "category": "jad_oil_wholesale",
       "retailMargin": 50
     },
     "زيوت شركة سوزيو وشاربوت الفرنسية": {
-      "category": "jad_oil_wholesale",
       "retailMargin": 30,
+      "category": "jad_oil_wholesale",
       "roundTo": 1
     },
     "زيوت شركة لوزي السويسرية": {
@@ -105,57 +105,11 @@
       "retailMargin": 30
     },
     "زيوت شركة هيرمان الالمانية": {
-      "category": "jad_oil_wholesale",
-      "retailMargin": 30
+      "retailMargin": 30,
+      "category": "jad_oil_wholesale"
     }
   },
   "subCategories": {
-    "gift_wrapping": [
-      "هدايا فالنتاين",
-      "هدايا عيد ام",
-      "هدايا معلم",
-      "هدايا مناسبات",
-      "تنسيقات هدايا",
-      "صناديق واكياس تغليف"
-    ],
-    "ready_perfumes": [],
-    "daily_offers": [],
-    "electronics": [],
-    "jad_perfumes": [
-      "عطورات جاد",
-      "اكسسوارات وعبوات عطور"
-    ],
-    "daily_new": [],
-    "hair_dyes": [
-      "صبغات شعر",
-      "صبغة سائلة",
-      "شامبو صبغة",
-      "مواد للصبغة"
-    ],
-    "chocolates_accessories": [],
-    "makeup": [
-      "مكياج عيون وحواجب",
-      "مكياج شفاه",
-      "مكياج وجه",
-      "اظلال وهايلايتر"
-    ],
-    "cottons": [
-      "نسائي",
-      "رجالي",
-      "ولادي",
-      "لانجري"
-    ],
-    "deodorants_splash": [
-      "مزيل تعرق",
-      "سبلاش"
-    ],
-    "jad_oil_wholesale": [
-      "زيوت شركة لوزي السويسرية",
-      "زيوت شركة هيرمان الالمانية",
-      "زيوت شركة سوزيو وشاربوت الفرنسية",
-      "زيوت شركة cbl الفرنسية",
-      "زيوت شركة اروما سنت الانكليزية"
-    ],
     "beauty_care": [
       "عناية بشرة",
       "عناية شعر",
@@ -164,26 +118,72 @@
       "عناية اظافر",
       "عناية صحية",
       "مستلزمات اطفال"
-    ]
+    ],
+    "cottons": [
+      "نسائي",
+      "رجالي",
+      "ولادي",
+      "لانجري"
+    ],
+    "hair_dyes": [
+      "صبغات شعر",
+      "صبغة سائلة",
+      "شامبو صبغة",
+      "مواد للصبغة"
+    ],
+    "gift_wrapping": [
+      "هدايا فالنتاين",
+      "هدايا عيد ام",
+      "هدايا معلم",
+      "هدايا مناسبات",
+      "تنسيقات هدايا",
+      "صناديق واكياس تغليف"
+    ],
+    "jad_oil_wholesale": [
+      "زيوت شركة لوزي السويسرية",
+      "زيوت شركة هيرمان الالمانية",
+      "زيوت شركة سوزيو وشاربوت الفرنسية",
+      "زيوت شركة cbl الفرنسية",
+      "زيوت شركة اروما سنت الانكليزية"
+    ],
+    "electronics": [],
+    "jad_perfumes": [
+      "عطورات جاد",
+      "اكسسوارات وعبوات عطور"
+    ],
+    "deodorants_splash": [
+      "مزيل تعرق",
+      "سبلاش"
+    ],
+    "makeup": [
+      "مكياج عيون وحواجب",
+      "مكياج شفاه",
+      "مكياج وجه",
+      "اظلال وهايلايتر"
+    ],
+    "daily_new": [],
+    "chocolates_accessories": [],
+    "daily_offers": [],
+    "ready_perfumes": []
   },
   "promoBarData": {
+    "fixed": {
+      "bgColor": "#dbc051",
+      "enabled": true,
+      "textColor": "#000000",
+      "text": "الاسعار المعروضة مرتبطة بسعر الصرف اليومي"
+    },
     "marquee": {
-      "direction": "ltr",
-      "itemBgColor": "#ffdc82",
       "speed": 15,
+      "bgColor": "#380000",
       "textColor": "#1a0c1e",
-      "pulseEnabled": true,
+      "itemBgColor": "#ffdc82",
       "items": [
         "بدء التشغييل التجريبي",
         "متجر شركة جاد الالكتروني"
       ],
-      "bgColor": "#380000"
-    },
-    "fixed": {
-      "bgColor": "#dbc051",
-      "text": "الاسعار المعروضة مرتبطة بسعر الصرف اليومي",
-      "textColor": "#000000",
-      "enabled": true
+      "pulseEnabled": true,
+      "direction": "ltr"
     }
   }
 }
