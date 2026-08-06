@@ -14598,5 +14598,33 @@
     "status": "متوفر",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1786008603/uu3h3exglyaqll641jpl.webp",
     "roundTo": 1
+  },
+  {
+    "id": "KNmNKx8N0iQQEGXQTEnI",
+    "name": "غلوس اولي مع لون ثقيل",
+    "category": "makeup",
+    "subCategory": "مكياج شفاه",
+    "costUSD": 0.8864,
+    "retailMargin": 0,
+    "manualRetailSYP": 0,
+    "discountRetailPercent": 0,
+    "desc": "",
+    "status": "متوفر",
+    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1786008603/uu3h3exglyaqll641jpl.webp",
+    "roundTo": 1
+  },
+  {
+    "id": "JO6d2UdSIXA7SbWE7xgA",
+    "name": "غلوس اوليبولا",
+    "category": "makeup",
+    "subCategory": "مكياج شفاه",
+    "costUSD": 0.8542,
+    "retailMargin": 0,
+    "manualRetailSYP": 0,
+    "discountRetailPercent": 0,
+    "desc": "",
+    "status": "متوفر",
+    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1786008658/ippav25z7razsvbeaybv.webp",
+    "roundTo": 1
   }
 ]
