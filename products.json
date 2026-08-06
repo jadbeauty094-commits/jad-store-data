@@ -7359,7 +7359,7 @@
   },
   {
     "id": "VQ7rIcNiYa8BLLsL4HOa",
-    "subCategory": "عناية صحية",
+    "subCategory": "",
     "status": "متوفر",
     "imageUrl": "https://i.ibb.co/0jmsycBG/IMG.jpg",
     "desc": "",
@@ -7368,7 +7368,8 @@
     "name": "محارم ليبرس شهرية 5 قطع",
     "costUSD": 0.4,
     "discountRetailPercent": 0,
-    "category": "beauty_care"
+    "category": "beauty_care",
+    "roundTo": 1
   },
   {
     "id": "VXHz8Z45zK0YL5RxJSx3",
