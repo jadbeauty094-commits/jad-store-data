@@ -2658,20 +2658,6 @@
     "imageUrl": "https://i.ibb.co/spSv6TcF/IMG-TIMEBURST1.jpg"
   },
   {
-    "id": "BzDHqftIPyqPEoEcaZQ5",
-    "discountRetailPercent": 0,
-    "name": "عطر رصاصي فيلينغز  60 مل",
-    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785082542/zhn6kb6lu18ipakshizu.jpg",
-    "roundTo": 1,
-    "desc": "",
-    "manualRetailSYP": 0,
-    "costUSD": 8.5,
-    "retailMargin": 0,
-    "status": "متوفر",
-    "subCategory": "مزيل تعرق",
-    "category": "deodorants_splash"
-  },
-  {
     "id": "C1SQXZjmPgjcewWFvvcl",
     "subCategory": "اظلال وهايلايتر",
     "costUSD": 4.5,
@@ -3550,12 +3536,12 @@
     "roundTo": 1,
     "status": "متوفر",
     "retailMargin": 0,
-    "subCategory": "مزيل تعرق",
+    "subCategory": "",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785082542/zhn6kb6lu18ipakshizu.jpg",
     "discountRetailPercent": 0,
     "name": "عطر رصاصي فيلينغز  60 مل",
     "costUSD": 8.5,
-    "category": "deodorants_splash",
+    "category": "ready_perfumes",
     "desc": ""
   },
   {
