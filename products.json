@@ -14600,5 +14600,19 @@
     "subCategory": "مزيل تعرق",
     "desc": "",
     "costUSD": 0.3924
+  },
+  {
+    "id": "Mr0kcTBJ04DTF3iny20j",
+    "name": "مال",
+    "category": "cottons",
+    "subCategory": "نسائي",
+    "costUSD": 12,
+    "retailMargin": 0,
+    "manualRetailSYP": 0,
+    "discountRetailPercent": 0,
+    "desc": "يصض1",
+    "status": "متوفر",
+    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1786091574/sbec8r64tw58sro6tqae.webp",
+    "roundTo": 1
   }
 ]
