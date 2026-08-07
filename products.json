@@ -9938,20 +9938,6 @@
     "discountRetailPercent": 0
   },
   {
-    "id": "fTgatlBMsnfOeMHBuw61",
-    "name": "cd",
-    "desc": "",
-    "costUSD": 400,
-    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1786107036/zbdebqiuhruajmxzt7mr.webp",
-    "status": "متوفر",
-    "subCategory": "",
-    "roundTo": 1,
-    "retailMargin": 0,
-    "manualRetailSYP": 0,
-    "category": "cottons",
-    "discountRetailPercent": 0
-  },
-  {
     "id": "fWpIWBO5KngU5FqEyfaj",
     "manualRetailSYP": 0,
     "retailMargin": 0,
