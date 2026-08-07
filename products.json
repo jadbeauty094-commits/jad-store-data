@@ -10889,20 +10889,6 @@
     "retailMargin": 0
   },
   {
-    "id": "jpXq3YmUZHJJtwNDICnH",
-    "desc": "asdasdsad",
-    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1786090103/udiayom5tgay9edtkdti.webp",
-    "roundTo": 1,
-    "subCategory": "",
-    "status": "متوفر",
-    "discountRetailPercent": 0,
-    "costUSD": 22,
-    "name": "bb",
-    "manualRetailSYP": 0,
-    "retailMargin": 0,
-    "category": "cottons"
-  },
-  {
     "id": "jsrLn7Tygpw9VCNilhFr",
     "costUSD": 2.85,
     "desc": "",
@@ -14614,19 +14600,5 @@
     "subCategory": "مزيل تعرق",
     "desc": "",
     "costUSD": 0.3924
-  },
-  {
-    "id": "04VGGaZfVf4ti2Rykhnu",
-    "name": "لل",
-    "category": "cottons",
-    "subCategory": "نسائي",
-    "costUSD": 44,
-    "retailMargin": 0,
-    "manualRetailSYP": 0,
-    "discountRetailPercent": 0,
-    "desc": "شسيششسي",
-    "status": "متوفر",
-    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1786090664/xyg2bzvznm7gm4cvan82.webp",
-    "roundTo": 1
   }
 ]
