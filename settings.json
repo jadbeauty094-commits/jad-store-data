@@ -3,25 +3,25 @@
   "shopWhatsApp": "963938713181",
   "categorySettings": {
     "beauty_care": {
-      "discountRetailPercent": 0,
+      "roundTo": 1,
       "retailMargin": 15,
-      "roundTo": 1
+      "discountRetailPercent": 0
     },
     "chocolates_accessories": {
+      "roundTo": 1,
       "retailMargin": 25,
-      "discountRetailPercent": 0,
-      "roundTo": 1
+      "discountRetailPercent": 0
     },
     "cosmetics": {
+      "discountRetailPercent": 0,
       "wholesaleMargin": 15,
       "discountWholesalePercent": 0,
-      "discountRetailPercent": 0,
       "retailMargin": 15
     },
     "cottons": {
-      "roundTo": 1,
+      "retailMargin": 0,
       "discountRetailPercent": 0,
-      "retailMargin": 0
+      "roundTo": 1
     },
     "daily_new": {
       "roundTo": 1,
@@ -35,55 +35,55 @@
     },
     "deodorants_splash": {
       "discountRetailPercent": 0,
-      "roundTo": 1,
-      "retailMargin": 15
+      "retailMargin": 15,
+      "roundTo": 1
     },
     "electronics": {
-      "roundTo": 1,
-      "retailMargin": 15,
-      "discountRetailPercent": 0
-    },
-    "gift_wrapping": {
       "discountRetailPercent": 0,
       "roundTo": 1,
       "retailMargin": 15
     },
-    "hair_dyes": {
-      "roundTo": 1,
+    "gift_wrapping": {
+      "discountRetailPercent": 0,
       "retailMargin": 15,
+      "roundTo": 1
+    },
+    "hair_dyes": {
+      "retailMargin": 15,
+      "roundTo": 1,
       "discountRetailPercent": 0
     },
     "jad_oil_wholesale": {
       "roundTo": 1,
-      "retailMargin": 0,
-      "discountRetailPercent": 0
+      "discountRetailPercent": 0,
+      "retailMargin": 0
     },
     "jad_perfumes": {
-      "roundTo": 1,
       "retailMargin": 0,
+      "roundTo": 1,
       "discountRetailPercent": 0
     },
     "lingerie": {
-      "retailMargin": 12,
       "wholesaleMargin": 0,
-      "discountRetailPercent": 0,
-      "discountWholesalePercent": 0
+      "discountWholesalePercent": 0,
+      "retailMargin": 12,
+      "discountRetailPercent": 0
     },
     "makeup": {
-      "retailMargin": 15,
       "roundTo": 1,
-      "discountRetailPercent": 0
+      "discountRetailPercent": 0,
+      "retailMargin": 15
     },
     "perfumes": {
-      "discountRetailPercent": 0,
-      "retailMargin": 20,
+      "discountWholesalePercent": 0,
       "wholesaleMargin": 0,
-      "discountWholesalePercent": 0
+      "retailMargin": 20,
+      "discountRetailPercent": 0
     },
     "ready_perfumes": {
-      "retailMargin": 15,
       "roundTo": 1,
-      "discountRetailPercent": 0
+      "discountRetailPercent": 0,
+      "retailMargin": 15
     }
   },
   "subCategorySettings": {
@@ -97,12 +97,12 @@
     },
     "زيوت شركة سوزيو وشاربوت الفرنسية": {
       "category": "jad_oil_wholesale",
-      "roundTo": 1,
-      "retailMargin": 30
+      "retailMargin": 30,
+      "roundTo": 1
     },
     "زيوت شركة لوزي السويسرية": {
-      "retailMargin": 30,
-      "category": "jad_oil_wholesale"
+      "category": "jad_oil_wholesale",
+      "retailMargin": 30
     },
     "زيوت شركة هيرمان الالمانية": {
       "retailMargin": 30,
@@ -110,25 +110,6 @@
     }
   },
   "subCategories": {
-    "jad_perfumes": [
-      "عطورات جاد",
-      "اكسسوارات وعبوات عطور"
-    ],
-    "makeup": [
-      "مكياج عيون وحواجب",
-      "مكياج شفاه",
-      "مكياج وجه",
-      "اظلال وهايلايتر"
-    ],
-    "beauty_care": [
-      "عناية بشرة",
-      "عناية شعر",
-      "ادوات تجميل",
-      "فراشي شعر",
-      "عناية اظافر",
-      "عناية صحية",
-      "مستلزمات اطفال"
-    ],
     "electronics": [],
     "gift_wrapping": [
       "هدايا فالنتاين",
@@ -145,45 +126,64 @@
       "زيوت شركة cbl الفرنسية",
       "زيوت شركة اروما سنت الانكليزية"
     ],
-    "daily_offers": [],
     "chocolates_accessories": [],
+    "deodorants_splash": [
+      "مزيل تعرق",
+      "سبلاش"
+    ],
+    "daily_new": [],
+    "beauty_care": [
+      "عناية بشرة",
+      "عناية شعر",
+      "ادوات تجميل",
+      "فراشي شعر",
+      "عناية اظافر",
+      "عناية صحية",
+      "مستلزمات اطفال"
+    ],
+    "jad_perfumes": [
+      "عطورات جاد",
+      "اكسسوارات وعبوات عطور"
+    ],
     "cottons": [
       "نسائي",
       "رجالي",
       "ولادي",
       "لانجري"
     ],
+    "makeup": [
+      "مكياج عيون وحواجب",
+      "مكياج شفاه",
+      "مكياج وجه",
+      "اظلال وهايلايتر"
+    ],
+    "ready_perfumes": [],
+    "daily_offers": [],
     "hair_dyes": [
       "صبغات شعر",
       "صبغة سائلة",
       "شامبو صبغة",
       "مواد للصبغة"
-    ],
-    "deodorants_splash": [
-      "مزيل تعرق",
-      "سبلاش"
-    ],
-    "ready_perfumes": [],
-    "daily_new": []
+    ]
   },
   "promoBarData": {
     "fixed": {
-      "enabled": true,
       "bgColor": "#dbc051",
+      "enabled": true,
       "text": "الاسعار المعروضة مرتبطة بسعر الصرف اليومي",
       "textColor": "#000000"
     },
     "marquee": {
       "pulseEnabled": true,
-      "itemBgColor": "#ffdc82",
-      "speed": 15,
-      "textColor": "#1a0c1e",
       "direction": "ltr",
       "bgColor": "#380000",
       "items": [
         "بدء التشغييل التجريبي",
         "متجر شركة جاد الالكتروني"
-      ]
+      ],
+      "textColor": "#1a0c1e",
+      "speed": 15,
+      "itemBgColor": "#ffdc82"
     }
   }
 }
