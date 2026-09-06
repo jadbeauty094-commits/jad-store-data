@@ -15248,5 +15248,19 @@
     "retailMargin": 0,
     "category": "deodorants_splash",
     "manualRetailSYP": 0
+  },
+  {
+    "id": "2H6d8UPiHyCeMsldZ85Y",
+    "name": "d",
+    "category": "cottons",
+    "subCategory": "نسائي",
+    "costUSD": 1.99,
+    "retailMargin": 0,
+    "manualRetailSYP": 0,
+    "discountRetailPercent": 0,
+    "desc": "",
+    "status": "متوفر",
+    "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1788730419/zppzkeskkdbx7kk2izcn.webp",
+    "roundTo": 1
   }
 ]
