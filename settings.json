@@ -55,8 +55,8 @@
     },
     "jad_oil_wholesale": {
       "retailMargin": 0,
-      "roundTo": 1,
-      "discountRetailPercent": 0
+      "discountRetailPercent": 0,
+      "roundTo": 0.25
     },
     "jad_perfumes": {
       "discountRetailPercent": 0,
