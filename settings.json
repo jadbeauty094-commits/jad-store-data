@@ -46,7 +46,7 @@
     "gift_wrapping": {
       "retailMargin": 30,
       "discountRetailPercent": 0,
-      "roundTo": 5
+      "roundTo": 1
     },
     "hair_dyes": {
       "retailMargin": 30,
