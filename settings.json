@@ -13,15 +13,15 @@
       "roundTo": 5
     },
     "cosmetics": {
-      "discountWholesalePercent": 0,
-      "discountRetailPercent": 0,
       "wholesaleMargin": 15,
-      "retailMargin": 15
+      "discountRetailPercent": 0,
+      "retailMargin": 15,
+      "discountWholesalePercent": 0
     },
     "cottons": {
-      "discountRetailPercent": 0,
+      "retailMargin": 0,
       "roundTo": 1,
-      "retailMargin": 0
+      "discountRetailPercent": 0
     },
     "daily_new": {
       "discountRetailPercent": 0,
@@ -29,136 +29,101 @@
       "retailMargin": 0
     },
     "daily_offers": {
-      "discountRetailPercent": 0,
       "retailMargin": 0,
-      "roundTo": 1
+      "roundTo": 1,
+      "discountRetailPercent": 0
     },
     "deodorants_splash": {
-      "retailMargin": 30,
+      "roundTo": 5,
       "discountRetailPercent": 0,
-      "roundTo": 5
+      "retailMargin": 30
     },
     "electronics": {
-      "retailMargin": 30,
       "roundTo": 5,
-      "discountRetailPercent": 0
+      "discountRetailPercent": 0,
+      "retailMargin": 30
     },
     "gift_wrapping": {
       "discountRetailPercent": 0,
-      "retailMargin": 30,
-      "roundTo": 1
+      "roundTo": 1,
+      "retailMargin": 30
     },
     "hair_dyes": {
-      "retailMargin": 30,
       "roundTo": 5,
+      "retailMargin": 30,
       "discountRetailPercent": 0
     },
     "jad_oil_wholesale": {
       "retailMargin": 0,
       "discountRetailPercent": 0,
-      "roundTo": 0.5
+      "roundTo": 0.1
     },
     "jad_perfumes": {
       "retailMargin": 0,
-      "discountRetailPercent": 0,
-      "roundTo": 1
+      "roundTo": 1,
+      "discountRetailPercent": 0
     },
     "lingerie": {
       "discountRetailPercent": 0,
       "discountWholesalePercent": 0,
-      "wholesaleMargin": 0,
-      "retailMargin": 12
+      "retailMargin": 12,
+      "wholesaleMargin": 0
     },
     "makeup": {
+      "roundTo": 5,
       "retailMargin": 30,
-      "discountRetailPercent": 0,
-      "roundTo": 5
+      "discountRetailPercent": 0
     },
     "perfumes": {
-      "wholesaleMargin": 0,
+      "retailMargin": 20,
       "discountWholesalePercent": 0,
       "discountRetailPercent": 0,
-      "retailMargin": 20
+      "wholesaleMargin": 0
     },
     "ready_perfumes": {
-      "roundTo": 5,
       "discountRetailPercent": 0,
-      "retailMargin": 30
+      "retailMargin": 30,
+      "roundTo": 5
     }
   },
   "subCategorySettings": {
     "زيوت شركة cbl الفرنسية": {
-      "category": "jad_oil_wholesale",
       "retailMargin": 70,
-      "roundTo": 1
+      "roundTo": 0.1,
+      "category": "jad_oil_wholesale"
     },
     "زيوت شركة اروما سنت الانكليزية": {
       "category": "jad_oil_wholesale",
       "retailMargin": 50,
-      "roundTo": 1
+      "roundTo": 0.1
     },
     "زيوت شركة سوزيو وشاربوت الفرنسية": {
       "category": "jad_oil_wholesale",
       "retailMargin": 30,
-      "roundTo": 1
+      "roundTo": 0.1
     },
     "زيوت شركة لوزي السويسرية": {
-      "category": "jad_oil_wholesale",
+      "roundTo": 0.1,
       "retailMargin": 30,
-      "roundTo": 1
+      "category": "jad_oil_wholesale"
     },
     "زيوت شركة هيرمان الالمانية": {
-      "category": "jad_oil_wholesale",
       "retailMargin": 30,
-      "roundTo": 1
+      "category": "jad_oil_wholesale",
+      "roundTo": 0.1
     },
     "صبغات شعر": {
       "retailMargin": 5,
-      "category": "hair_dyes",
-      "roundTo": 1
+      "roundTo": 1,
+      "category": "hair_dyes"
     }
   },
   "subCategories": {
-    "deodorants_splash": [
-      "مزيل تعرق",
-      "سبلاش"
-    ],
-    "makeup": [
-      "مكياج عيون وحواجب",
-      "مكياج شفاه",
-      "مكياج وجه",
-      "اظلال وهايلايتر"
-    ],
-    "ready_perfumes": [],
     "hair_dyes": [
       "صبغات شعر",
       "صبغة سائلة",
       "شامبو صبغة",
       "مواد للصبغة"
-    ],
-    "chocolates_accessories": [],
-    "jad_perfumes": [
-      "عطورات جاد",
-      "اكسسوارات وعبوات عطور"
-    ],
-    "daily_new": [],
-    "jad_oil_wholesale": [
-      "زيوت شركة لوزي السويسرية",
-      "زيوت شركة هيرمان الالمانية",
-      "زيوت شركة سوزيو وشاربوت الفرنسية",
-      "زيوت شركة cbl الفرنسية",
-      "زيوت شركة اروما سنت الانكليزية"
-    ],
-    "daily_offers": [],
-    "electronics": [],
-    "beauty_care": [
-      "عناية بشرة",
-      "عناية شعر",
-      "ادوات تجميل",
-      "فراشي شعر",
-      "عناية اظافر",
-      "عناية صحية",
-      "مستلزمات اطفال"
     ],
     "gift_wrapping": [
       "هدايا فالنتاين",
@@ -168,31 +133,66 @@
       "تنسيقات هدايا",
       "صناديق واكياس تغليف"
     ],
+    "jad_perfumes": [
+      "عطورات جاد",
+      "اكسسوارات وعبوات عطور"
+    ],
+    "chocolates_accessories": [],
+    "ready_perfumes": [],
+    "electronics": [],
+    "makeup": [
+      "مكياج عيون وحواجب",
+      "مكياج شفاه",
+      "مكياج وجه",
+      "اظلال وهايلايتر"
+    ],
+    "jad_oil_wholesale": [
+      "زيوت شركة لوزي السويسرية",
+      "زيوت شركة هيرمان الالمانية",
+      "زيوت شركة سوزيو وشاربوت الفرنسية",
+      "زيوت شركة cbl الفرنسية",
+      "زيوت شركة اروما سنت الانكليزية"
+    ],
     "cottons": [
       "نسائي",
       "رجالي",
       "ولادي",
       "لانجري"
-    ]
+    ],
+    "deodorants_splash": [
+      "مزيل تعرق",
+      "سبلاش"
+    ],
+    "beauty_care": [
+      "عناية بشرة",
+      "عناية شعر",
+      "ادوات تجميل",
+      "فراشي شعر",
+      "عناية اظافر",
+      "عناية صحية",
+      "مستلزمات اطفال"
+    ],
+    "daily_offers": [],
+    "daily_new": []
   },
   "promoBarData": {
-    "fixed": {
-      "textColor": "#000000",
-      "enabled": true,
-      "bgColor": "#dbc051",
-      "text": "اضيفي صفرين للاسعار المعروضة ليتضح السعر بالعملة القديمة"
-    },
     "marquee": {
-      "pulseEnabled": true,
       "itemBgColor": "#ffdc82",
-      "textColor": "#1a0c1e",
-      "direction": "ltr",
       "bgColor": "#380000",
       "speed": 15,
+      "textColor": "#1a0c1e",
+      "direction": "ltr",
       "items": [
         "بدء التشغييل التجريبي",
         "متجر شركة جاد الالكتروني"
-      ]
+      ],
+      "pulseEnabled": true
+    },
+    "fixed": {
+      "bgColor": "#dbc051",
+      "text": "اضيفي صفرين للاسعار المعروضة ليتضح السعر بالعملة القديمة",
+      "textColor": "#000000",
+      "enabled": true
     }
   },
   "categoryOrder": [
