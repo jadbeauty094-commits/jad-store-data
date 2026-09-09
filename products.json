@@ -4604,11 +4604,12 @@
     "discountRetailPercent": 0,
     "costUSD": 0.071,
     "name": "زيت بربري هير  سويسري من لوزي",
-    "subCategory": "زيوت شركة لوزي السويسرية",
+    "subCategory": "",
     "desc": "",
     "retailMargin": 0,
     "imageUrl": "https://i.ibb.co/gLR6zcRL/IMG.jpg",
-    "status": "غير متوفر"
+    "status": "غير متوفر",
+    "roundTo": 0.1
   },
   {
     "id": "IFA0bik5DlhkA1CZUKp0",
