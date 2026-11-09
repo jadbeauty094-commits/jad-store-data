@@ -3528,13 +3528,14 @@
     "desc": "",
     "name": "مسكرة kiss beauty اصلية",
     "category": "makeup",
-    "subCategory": "مكياج عيون وحواجب",
+    "subCategory": "",
     "retailMargin": 0,
     "manualRetailSYP": 0,
     "discountRetailPercent": 0,
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1784821434/ftz00sxjqzqetu2ayz3w.jpg",
-    "status": "متوفر",
-    "costUSD": 0.75
+    "status": "غير متوفر",
+    "costUSD": 0.6458,
+    "roundTo": 1
   },
   {
     "id": "DvHQiFBChk2ghNH92Sgp",
