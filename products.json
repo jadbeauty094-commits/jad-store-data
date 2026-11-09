@@ -3431,7 +3431,7 @@
   },
   {
     "id": "DgDLFXVunzdLwcCTr0HP",
-    "subCategory": "مكياج",
+    "subCategory": "",
     "status": "متوفر",
     "imageUrl": "https://i.ibb.co/N2J9Q5ZH/IMG.jpg",
     "discountRetailPercent": 0,
@@ -3439,8 +3439,9 @@
     "costUSD": 0.3125,
     "desc": "",
     "retailMargin": 0,
-    "name": "ايلاينر جرة قلم اسود فاحم",
-    "category": "makeup"
+    "name": "ايلاينر جرة قلم اسود فاحم 1181097",
+    "category": "makeup",
+    "roundTo": 1
   },
   {
     "id": "DjRck1mOyzGvsy97yEvH",
@@ -3512,14 +3513,15 @@
     "id": "DsWbYwhpYphFPa2J3vTr",
     "desc": "",
     "retailMargin": 0,
-    "name": "هاي لايتر دياموند بودرة",
+    "name": "هاي لايتر دياموند بودرة 115106",
     "discountRetailPercent": 0,
     "imageUrl": "https://i.ibb.co/4RgXxm1w/IMG.jpg",
-    "subCategory": "اظلال وهايلايتر",
+    "subCategory": "",
     "costUSD": 0.5417,
     "category": "makeup",
     "status": "متوفر",
-    "manualRetailSYP": 0
+    "manualRetailSYP": 0,
+    "roundTo": 1
   },
   {
     "id": "Dt1GKD9xgXsOJbXpttA7",
