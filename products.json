@@ -3322,16 +3322,17 @@
   },
   {
     "id": "D8pdC2XCmYczzNqJpkHJ",
-    "subCategory": "مكياج وجه",
+    "subCategory": "",
     "discountRetailPercent": 0,
     "manualRetailSYP": 0,
     "status": "متوفر",
     "category": "makeup",
     "retailMargin": 0,
     "imageUrl": "https://i.ibb.co/gb3Cq1Bn/IMG-20260707-101805.jpg",
-    "name": "كريم اساس ايميلي مع واقي",
+    "name": "كريم اساس ايميلي مع واقي 117037",
     "costUSD": 3.0476,
-    "desc": ""
+    "desc": "",
+    "roundTo": 1
   },
   {
     "id": "DMg5oSMrU0R2seQWBdsa",
