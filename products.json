@@ -5066,10 +5066,11 @@
     "retailMargin": 0,
     "status": "متوفر",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1784822134/wrjtlqzogihrulkpbyec.jpg",
-    "name": "اي لابنر كيس بيوتي",
-    "subCategory": "مكياج",
-    "costUSD": 0.6875,
-    "category": "makeup"
+    "name": "اي لابنر كيس بيوتي 118055",
+    "subCategory": "",
+    "costUSD": 0.5521,
+    "category": "makeup",
+    "roundTo": 1
   },
   {
     "id": "JW938iJcoitTB0sCldCj",
