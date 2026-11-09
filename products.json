@@ -3547,8 +3547,9 @@
     "manualRetailSYP": 0,
     "desc": "",
     "imageUrl": "https://i.ibb.co/b5Crky0m/IMG.jpg",
-    "name": "قلم اي لاينر كاجل فوليوم",
-    "subCategory": "مكياج عيون وحواجب"
+    "name": "قلم اي لاينر كاجل فوليوم 118056",
+    "subCategory": "",
+    "roundTo": 1
   },
   {
     "id": "DvnbglcZlROvnkG0NLmg",
@@ -3763,16 +3764,16 @@
   {
     "id": "ErhOKnuVggYvGg46EHpv",
     "status": "متوفر",
-    "costUSD": 0.9792,
+    "costUSD": 0.9583,
     "roundTo": 1,
     "category": "makeup",
-    "name": "مسكرة دياموند بيوتي تايغر",
+    "name": "مسكرة دياموند بيوتي تايغر 118040",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1787649025/bbfu4eitjqzytfxsnxf1.webp",
     "discountRetailPercent": 0,
     "manualRetailSYP": 0,
     "retailMargin": 0,
     "desc": "",
-    "subCategory": "مكياج عيون وحواجب"
+    "subCategory": ""
   },
   {
     "id": "EtPLJg81jX4oRxEp4m02",
