@@ -3887,12 +3887,13 @@
     "name": "اي لاينر كيس بيوتي",
     "desc": "",
     "manualRetailSYP": 0,
-    "status": "متوفر",
+    "status": "غير متوفر",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1784821626/x1inpw4p6nvyqvc2u5zs.jpg",
     "costUSD": 0.6875,
     "discountRetailPercent": 0,
-    "subCategory": "مكياج عيون وحواجب",
-    "retailMargin": 0
+    "subCategory": "",
+    "retailMargin": 0,
+    "roundTo": 1
   },
   {
     "id": "FIp0orlKdJ4hn9fM80nJ",
@@ -3939,14 +3940,15 @@
     "id": "FPlgGfvS2Kr5TRj0Gj0B",
     "retailMargin": 0,
     "desc": "",
-    "costUSD": 0.6667,
+    "costUSD": 1.158,
     "discountRetailPercent": 0,
     "imageUrl": "https://i.ibb.co/jPTMWKWB/IMG.jpg",
-    "subCategory": "مكياج عيون وحواجب",
-    "name": "مسكرة شفافة مواد ثقيلة",
+    "subCategory": "",
+    "name": "مسكرة شفافة مواد ثقيلة 1180702",
     "category": "makeup",
     "status": "متوفر",
-    "manualRetailSYP": 0
+    "manualRetailSYP": 0,
+    "roundTo": 1
   },
   {
     "id": "FQdmgCAqDNrV6lMtTRF7",
@@ -4022,7 +4024,7 @@
     "category": "makeup",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785429747/gm0lnusy82ahyjdugfao.jpg",
     "desc": "",
-    "name": "بودرة وجه غابرييني",
+    "name": "بودرة وجه غابرييني 117045",
     "costUSD": 1.8333,
     "manualRetailSYP": 0,
     "roundTo": 1,
@@ -4056,7 +4058,7 @@
   },
   {
     "id": "Fi8qeoAOtNbJPfYpPCUj",
-    "subCategory": "مكياج وجه",
+    "subCategory": "",
     "retailMargin": 0,
     "status": "متوفر",
     "costUSD": 1.221,
@@ -4064,7 +4066,7 @@
     "roundTo": 1,
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785069246/x0jvp8xsoyxnocrolxd3.jpg",
     "manualRetailSYP": 0,
-    "name": "بلاشر اني كلاين استوديو",
+    "name": "بلاشر اني كلاين استوديو 10462",
     "category": "makeup",
     "desc": ""
   },
@@ -4083,16 +4085,17 @@
   },
   {
     "id": "FkR19uBXw41jdIe0pbLB",
-    "costUSD": 2.6666,
+    "costUSD": 2.25,
     "manualRetailSYP": 0,
-    "subCategory": "مكياج وجه",
+    "subCategory": "",
     "imageUrl": "https://i.ibb.co/NnYKk8vK/IMG.jpg",
     "retailMargin": 0,
-    "name": "بودرة حرة فلورمار سوبر ستاي",
+    "name": "بودرة حرة فلورمار سوبر ستاي 10461",
     "discountRetailPercent": 0,
     "category": "makeup",
     "status": "متوفر",
-    "desc": ""
+    "desc": "",
+    "roundTo": 1
   },
   {
     "id": "FkaKjyVRyTYvBJ5DZeWX",
@@ -4243,14 +4246,15 @@
     "id": "GJYDtmKFTer13pDJBiil",
     "imageUrl": "https://i.ibb.co/fVk4gG1g/FB-IMG-1784550451393.jpg",
     "desc": "",
-    "name": "قلم تخطيط حواجب ريميل اصلي",
+    "name": "قلم تخطيط حواجب ريميل اصلي 1190531",
     "discountRetailPercent": 0,
     "costUSD": 0.6667,
     "retailMargin": 0,
     "manualRetailSYP": 0,
     "category": "makeup",
-    "subCategory": "مكياج عيون وحواجب",
-    "status": "متوفر"
+    "subCategory": "",
+    "status": "متوفر",
+    "roundTo": 1
   },
   {
     "id": "GOdP2CVVoKgU591w82Vp",
@@ -4335,7 +4339,7 @@
   },
   {
     "id": "GjaTlujvim3LeWAjBURX",
-    "name": "كونتور كريمي رومنتك",
+    "name": "كونتور كريمي رومنتك 102106",
     "category": "makeup",
     "costUSD": 0.9167,
     "desc": "",
@@ -4344,7 +4348,8 @@
     "manualRetailSYP": 0,
     "retailMargin": 0,
     "imageUrl": "https://i.ibb.co/RkSWXjVr/IMG.jpg",
-    "subCategory": "مكياج وجه"
+    "subCategory": "",
+    "roundTo": 1
   },
   {
     "id": "GokzIQVuDyWzO3EbjTYx",
@@ -4407,13 +4412,14 @@
     "manualRetailSYP": 0,
     "imageUrl": "https://i.ibb.co/ycbv50GJ/IMG.jpg",
     "costUSD": 0.4167,
-    "subCategory": "مكياج وجه",
-    "name": "بودرة ديبورا مواد ثقيلة",
-    "desc": ""
+    "subCategory": "",
+    "name": "بودرة ديبورا مواد ثقيلة 1170301",
+    "desc": "",
+    "roundTo": 1
   },
   {
     "id": "GsssxS6oDAx5H99Qu0ch",
-    "name": "مسكرة جوسي بيوتي بلوم اصلية",
+    "name": "مسكرة جوسي بيوتي بلوم أصلية 1180710",
     "retailMargin": 0,
     "desc": "",
     "manualRetailSYP": 0,
@@ -4421,7 +4427,7 @@
     "roundTo": 1,
     "discountRetailPercent": 0,
     "costUSD": 1.6458,
-    "subCategory": "مكياج عيون وحواجب",
+    "subCategory": "",
     "category": "makeup",
     "status": "متوفر"
   },
@@ -4507,16 +4513,17 @@
   },
   {
     "id": "HBRKjnNgKrNFUzDlojg2",
-    "name": "كريم اساس لافي بل",
-    "costUSD": 2.5833,
+    "name": "كريم اساس لافي بل 118008",
+    "costUSD": 2.6,
     "manualRetailSYP": 0,
     "desc": "",
     "imageUrl": "https://i.ibb.co/Z1Yzffp2/IMG-20260707-101612.jpg",
     "discountRetailPercent": 0,
     "category": "makeup",
-    "subCategory": "مكياج وجه",
+    "subCategory": "",
     "status": "متوفر",
-    "retailMargin": 0
+    "retailMargin": 0,
+    "roundTo": 1
   },
   {
     "id": "HBZlnzkoBlQk8De84f4C",
@@ -4586,12 +4593,12 @@
   {
     "id": "HqdXRvCI614pRfcdBtiJ",
     "status": "متوفر",
-    "subCategory": "اظلال وهايلايتر",
+    "subCategory": "",
     "manualRetailSYP": 0,
-    "category": "makeup",
+    "category": "",
     "costUSD": 2.4167,
     "roundTo": 1,
-    "name": "ظل بيوتي سيتي 50 لون",
+    "name": "ظل بيوتي سيتي 50 لون 119069",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1787387811/ti7egsvkrpeaattwmr9a.webp",
     "retailMargin": 0,
     "discountRetailPercent": 0,
@@ -4788,13 +4795,14 @@
     "status": "متوفر",
     "category": "makeup",
     "retailMargin": 0,
-    "subCategory": "اظلال وهايلايتر",
-    "name": "ظل رومانتك 12 لون",
+    "subCategory": "",
+    "name": "ظل رومانتك 12 لون 1040564",
     "imageUrl": "https://i.ibb.co/HL8q7FcJ/IMG.jpg",
     "manualRetailSYP": 0,
     "costUSD": 0.8846,
     "discountRetailPercent": 0,
-    "desc": ""
+    "desc": "",
+    "roundTo": 1
   },
   {
     "id": "IdzCS27910RnBKq9Mvjd",
@@ -4842,13 +4850,14 @@
     "desc": "",
     "category": "makeup",
     "status": "متوفر",
-    "name": "ظل كيس بيوتي لونين",
+    "name": "ظل كيس بيوتي لونين 115172",
     "costUSD": 0.6667,
     "discountRetailPercent": 0,
-    "subCategory": "اظلال وهايلايتر",
+    "subCategory": "",
     "retailMargin": 0,
     "manualRetailSYP": 0,
-    "imageUrl": "https://i.ibb.co/dwB66KmL/IMG.jpg"
+    "imageUrl": "https://i.ibb.co/dwB66KmL/IMG.jpg",
+    "roundTo": 1
   },
   {
     "id": "IllHFU7bL7r4rHjKWZkE",
@@ -5030,11 +5039,11 @@
     "discountRetailPercent": 0,
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1786008658/ippav25z7razsvbeaybv.webp",
     "costUSD": 0.8542,
-    "name": "غلوس اوليبولا",
+    "name": "غلوس اوليبولا 11903812",
     "status": "متوفر",
     "retailMargin": 0,
     "category": "makeup",
-    "subCategory": "مكياج شفاه"
+    "subCategory": ""
   },
   {
     "id": "JPxoaP2mLc7XruzdXlxR",
@@ -5176,14 +5185,14 @@
     "id": "Jv9Ja3pB4WvlYduoodTJ",
     "discountRetailPercent": 0,
     "desc": "",
-    "subCategory": "مكياج وجه",
+    "subCategory": "",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785920523/thlifboeoivavrzqe4hn.webp",
-    "name": "ستيك بلاشر سحري kiss beauty",
+    "name": "ستيك بلاشر سحري كيس بيوتي 115127",
     "retailMargin": 0,
     "category": "makeup",
     "roundTo": 1,
     "manualRetailSYP": 0,
-    "costUSD": 1.0833,
+    "costUSD": 1,
     "status": "متوفر"
   },
   {
@@ -6590,15 +6599,16 @@
   {
     "id": "Qv1cdrZPVXjGf1KrWEGV",
     "desc": "",
-    "name": "بلاشر ستيك kiss beauty",
+    "name": "بلاشر ستيك كيس بيوتي",
     "costUSD": 1.25,
     "imageUrl": "https://i.ibb.co/k2Mr3Fz7/IMG.jpg",
-    "status": "متوفر",
+    "status": "غير متوفر",
     "retailMargin": 0,
-    "subCategory": "مكياج",
+    "subCategory": "",
     "category": "makeup",
     "discountRetailPercent": 0,
-    "manualRetailSYP": 0
+    "manualRetailSYP": 0,
+    "roundTo": 1
   },
   {
     "id": "QxTUbAimv8ClmJj2kNYw",
@@ -11495,14 +11505,15 @@
     "id": "jk7mE0t34rZGf9MGLvKR",
     "desc": "",
     "category": "makeup",
-    "name": "مسكرة ايسانس اصلية",
-    "costUSD": 2.58,
+    "name": "مسكرة ايسانس اصلية 118067",
+    "costUSD": 2.5,
     "manualRetailSYP": 0,
-    "subCategory": "مكياج عيون وحواجب",
+    "subCategory": "",
     "retailMargin": 0,
     "discountRetailPercent": 0,
     "status": "متوفر",
-    "imageUrl": "https://i.ibb.co/YBPbckCh/IMG.jpg"
+    "imageUrl": "https://i.ibb.co/YBPbckCh/IMG.jpg",
+    "roundTo": 1
   },
   {
     "id": "jklF9irh5DvuKgYKEil8",
@@ -12313,15 +12324,16 @@
   {
     "id": "nZgRkoyaBUo15eGlzDRT",
     "desc": "",
-    "subCategory": "مكياج وجه",
+    "subCategory": "",
     "imageUrl": "https://i.ibb.co/wxPcCf7/17834131637064917310495931109270.jpg",
-    "name": "كريم اساس غابرييني تركي مضخة",
+    "name": "كريم اساس غابرييني تركي مضخة 102074",
     "manualRetailSYP": 0,
     "status": "متوفر",
     "retailMargin": 0,
     "category": "makeup",
     "costUSD": 2.2083,
-    "discountRetailPercent": 0
+    "discountRetailPercent": 0,
+    "roundTo": 1
   },
   {
     "id": "nkfk21mCnDdqHW1sHS00",
