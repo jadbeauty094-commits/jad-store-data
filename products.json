@@ -13793,16 +13793,17 @@
   },
   {
     "id": "tEx96LuKLPbjqGT0SaHy",
-    "costUSD": 0.63,
+    "costUSD": 0.654,
     "imageUrl": "https://i.ibb.co/wTXm751/IMG.jpg",
     "desc": "",
     "retailMargin": 0,
-    "name": "بودرة شاي اخضر سي دي فتنة",
-    "subCategory": "مكياج وجه",
+    "name": "بودرة شاي اخضر سي دي فتنة 117029",
+    "subCategory": "",
     "status": "متوفر",
     "manualRetailSYP": 0,
     "category": "makeup",
-    "discountRetailPercent": 0
+    "discountRetailPercent": 0,
+    "roundTo": 1
   },
   {
     "id": "tGLZYe0nr25Q7xlEfZxc",
