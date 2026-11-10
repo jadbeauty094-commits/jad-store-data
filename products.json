@@ -1096,7 +1096,7 @@
   },
   {
     "id": "4cDudGdRsnNAXQvIHaXl",
-    "name": "كونسيلر راسين مع هايلايتر 1170316",
+    "name": "كونتور مع هايلايتر وندر ستيك 1170316",
     "desc": "",
     "roundTo": 1,
     "costUSD": 0.5625,
@@ -2653,7 +2653,7 @@
     "retailMargin": 0,
     "category": "makeup",
     "manualRetailSYP": 0,
-    "status": "متوفر",
+    "status": "غير متوفر",
     "roundTo": 1,
     "imageUrl": "https://i.ibb.co/KpCBF2v3/IMG.jpg",
     "subCategory": "",
@@ -2923,14 +2923,15 @@
     "id": "C1SQXZjmPgjcewWFvvcl",
     "imageUrl": "https://i.ibb.co/wjttYfq/IMG.jpg",
     "costUSD": 4.5,
-    "subCategory": "اظلال وهايلايتر",
+    "subCategory": "",
     "retailMargin": 0,
-    "status": "متوفر",
+    "status": "غير متوفر",
     "desc": "",
     "discountRetailPercent": 0,
     "category": "makeup",
     "name": "دفتر مكياج وجه فرو",
-    "manualRetailSYP": 0
+    "manualRetailSYP": 0,
+    "roundTo": 1
   },
   {
     "id": "C2hMCmTsQOmXEclUmrVg",
