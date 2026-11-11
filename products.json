@@ -13473,15 +13473,16 @@
   {
     "id": "rfroGIdjcFC9icXMvPt1",
     "manualRetailSYP": 0,
-    "subCategory": "مكياج عيون وحواجب",
+    "subCategory": "",
     "desc": "",
-    "status": "متوفر",
+    "status": "غير متوفر",
     "category": "makeup",
     "costUSD": 0.6667,
     "retailMargin": 0,
-    "name": "كحلة كاجل عصارة هاشمي الاصلي",
+    "name": "كحلة كاجل عصارة هاشمي الاصلي 118045",
     "imageUrl": "https://i.ibb.co/twK6yyJP/IMG.jpg",
-    "discountRetailPercent": 0
+    "discountRetailPercent": 0,
+    "roundTo": 1
   },
   {
     "id": "rjpBWP5zKFm0qhoQz7Dd",
@@ -13696,16 +13697,17 @@
   },
   {
     "id": "scb3GvrqpDzw0PCm5FMh",
-    "name": "اي لاينر هدى بيوتي راسين",
+    "name": "اي لاينر هدى بيوتي راسين 118017",
     "status": "متوفر",
-    "subCategory": "مكياج عيون وحواجب",
+    "subCategory": "",
     "costUSD": 0.2917,
     "category": "makeup",
     "discountRetailPercent": 0,
     "imageUrl": "https://i.ibb.co/YGy1HzY/IMG.jpg",
     "manualRetailSYP": 0,
     "retailMargin": 0,
-    "desc": ""
+    "desc": "",
+    "roundTo": 1
   },
   {
     "id": "seShLhVr3gN4EbD6X5Nf",
