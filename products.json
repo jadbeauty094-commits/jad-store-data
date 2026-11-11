@@ -1078,7 +1078,7 @@
     "retailMargin": 0,
     "status": "متوفر",
     "desc": "",
-    "costUSD": 2.1667
+    "costUSD": 2
   },
   {
     "id": "4TLfk2hzA8iSV5gzN7u5",
@@ -2102,16 +2102,17 @@
   },
   {
     "id": "8QWucOIfkHR8pmNbn8C5",
-    "subCategory": "ادوات تجميل",
+    "subCategory": "",
     "discountRetailPercent": 0,
     "name": "علبة بلاندر سداسية اصلية كاملة",
     "manualRetailSYP": 0,
     "costUSD": 1.4583,
     "retailMargin": 0,
     "desc": "",
-    "status": "متوفر",
+    "status": "غير متوفر",
     "category": "beauty_care",
-    "imageUrl": "https://i.ibb.co/vCbLt6z7/IMG-20260706-125036.jpg"
+    "imageUrl": "https://i.ibb.co/vCbLt6z7/IMG-20260706-125036.jpg",
+    "roundTo": 1
   },
   {
     "id": "8Qi8xN2fnfA9VRiVoL0p",
@@ -2390,7 +2391,7 @@
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785070083/dvngnzmxoou2xwgeck9z.jpg",
     "category": "beauty_care",
     "retailMargin": 0,
-    "status": "متوفر",
+    "status": "غير متوفر",
     "roundTo": 1,
     "subCategory": "",
     "name": "بودرة جسم ميموا كبير 104018",
@@ -3108,13 +3109,13 @@
   },
   {
     "id": "Cl4FH3HbWhl5bGtJQifz",
-    "status": "متوفر",
+    "status": "غير متوفر",
     "discountRetailPercent": 0,
     "desc": "",
-    "name": "لوشن ميموا 240 مل",
+    "name": "لوشن ميموا 240 مل 102052",
     "retailMargin": 0,
     "category": "beauty_care",
-    "subCategory": "عناية بشرة",
+    "subCategory": "",
     "costUSD": 1.21,
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785069392/obr0o3hvefefmphi3gqm.jpg",
     "roundTo": 1,
@@ -4793,7 +4794,7 @@
   },
   {
     "id": "IN5khOyzXMsFIa56v51N",
-    "name": "ظل رومانتك 12 لون 1040564",
+    "name": "ظل رومانتيك 12 لون 1040564",
     "manualRetailSYP": 0,
     "status": "متوفر",
     "retailMargin": 0,
@@ -10017,14 +10018,15 @@
     "id": "cxWZNp7tMyWHn2SnBpey",
     "category": "beauty_care",
     "discountRetailPercent": 0,
-    "name": "فوط يومية كولكز 8 قطع",
+    "name": "فوط يومية كولكز 8 قطع 120004",
     "imageUrl": "https://i.ibb.co/nsx2YVzX/IMG.jpg",
     "costUSD": 0.33,
     "retailMargin": 0,
     "status": "متوفر",
     "desc": "",
-    "subCategory": "عناية صحية",
-    "manualRetailSYP": 0
+    "subCategory": "",
+    "manualRetailSYP": 0,
+    "roundTo": 1
   },
   {
     "id": "cxt5ZIMN3usI0tmaXsXf",
@@ -14765,16 +14767,17 @@
   },
   {
     "id": "xC2jVtKnb9rkXNMKVgnS",
-    "subCategory": "اظلال وهايلايتر",
+    "subCategory": "",
     "retailMargin": 0,
     "costUSD": 1.0417,
-    "name": "ظل دودو غيرل قلب 12 لون",
+    "name": "ظل دودو غيرل قلب 12 لون 119053",
     "discountRetailPercent": 0,
     "desc": "",
     "imageUrl": "https://i.ibb.co/PzWhK4Bb/IMG.jpg",
     "manualRetailSYP": 0,
     "category": "makeup",
-    "status": "متوفر"
+    "status": "متوفر",
+    "roundTo": 1
   },
   {
     "id": "xH3TzEMVqkfTHPss71EW",
@@ -14923,15 +14926,16 @@
   {
     "id": "xm7t7N2aYmwLuQ547lEb",
     "category": "makeup",
-    "status": "متوفر",
+    "status": "غير متوفر",
     "desc": "",
-    "costUSD": 0.8846,
+    "costUSD": 0.6081,
     "imageUrl": "https://i.ibb.co/21Q6RwSs/IMG.jpg",
-    "subCategory": "مكياج عيون وحواجب",
+    "subCategory": "",
     "manualRetailSYP": 0,
-    "name": "صابونة حواجب 3D",
+    "name": "صابونة حواجب 3D 115013",
     "retailMargin": 0,
-    "discountRetailPercent": 0
+    "discountRetailPercent": 0,
+    "roundTo": 1
   },
   {
     "id": "xsFIQeQvQNWdW3QqZELe",
@@ -15166,13 +15170,14 @@
     "desc": "",
     "manualRetailSYP": 0,
     "discountRetailPercent": 0,
-    "subCategory": "اظلال وهايلايتر",
+    "subCategory": "",
     "costUSD": 1.8333,
-    "status": "متوفر",
+    "status": "غير متوفر",
     "category": "makeup",
     "retailMargin": 0,
-    "name": "ظل رومنك مع هاي لايتر 25 لون",
-    "imageUrl": "https://i.ibb.co/4gWyWcct/IMG.jpg"
+    "name": "ظل رومنتيك مع هايلايتر 25 لون 1170331",
+    "imageUrl": "https://i.ibb.co/4gWyWcct/IMG.jpg",
+    "roundTo": 1
   },
   {
     "id": "yr4SEwlTOOtVX0QnuO9a",
@@ -15322,13 +15327,14 @@
     "manualRetailSYP": 0,
     "retailMargin": 0,
     "category": "makeup",
-    "subCategory": "اظلال وهايلايتر",
+    "subCategory": "",
     "desc": "",
     "imageUrl": "https://i.ibb.co/N6CP4v2x/IMG.jpg",
-    "status": "متوفر",
+    "status": "غير متوفر",
     "discountRetailPercent": 0,
     "name": "دفتر ظل مكياج 5 طبقات",
-    "costUSD": 4.5
+    "costUSD": 4.5,
+    "roundTo": 1
   },
   {
     "id": "zfccxjzG0PRdavCxvgRa",
@@ -15375,26 +15381,27 @@
     "id": "znowqIbwXWhQ7DP7MPlm",
     "category": "makeup",
     "costUSD": 0.7292,
-    "subCategory": "اظلال وهايلايتر",
+    "subCategory": "",
     "retailMargin": 0,
-    "name": "ظل دودو غيرل 10 الوان قياس جزدان",
+    "name": "ظل دودو غيرل 10 الوان 119052",
     "imageUrl": "https://i.ibb.co/8nr25pSw/IMG.jpg",
     "status": "متوفر",
     "discountRetailPercent": 0,
     "manualRetailSYP": 0,
-    "desc": ""
+    "desc": "",
+    "roundTo": 1
   },
   {
     "id": "zq9BbD7OnWUTO3dEUcD3",
     "retailMargin": 0,
-    "name": "قلم راسين اي لاينر مع تشطيب 3Dحواجب",
+    "name": "قلم راسين اي لاينر مع تشطيب 3Dحواجب 1181102",
     "status": "متوفر",
     "costUSD": 0.875,
     "category": "makeup",
     "discountRetailPercent": 0,
     "manualRetailSYP": 0,
     "desc": "",
-    "subCategory": "مكياج عيون وحواجب",
+    "subCategory": "",
     "roundTo": 1,
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1786811875/gsffiodneuwbao8xcmpq.webp"
   },
