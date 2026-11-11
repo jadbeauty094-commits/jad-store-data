@@ -9922,13 +9922,13 @@
   {
     "id": "cdcXUocHDhe6TpMzD0Xb",
     "manualRetailSYP": 0,
-    "subCategory": "مكياج وجه",
-    "costUSD": 1,
+    "subCategory": "",
+    "costUSD": 0.875,
     "status": "متوفر",
     "category": "makeup",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785429206/eamdxzbz7wt3m1fxtfto.jpg",
     "roundTo": 1,
-    "name": "بلشر سحري يارا",
+    "name": "بلاشر خدود سحري يارا 1170321",
     "discountRetailPercent": 0,
     "desc": "",
     "retailMargin": 0
@@ -9949,14 +9949,14 @@
   {
     "id": "chXpQR39bPNuXU8fvyLF",
     "desc": "",
-    "subCategory": "مكياج عيون وحواجب",
+    "subCategory": "",
     "name": "قلم كحل كاجل فوليوم 24 ساعة",
     "costUSD": 1.12,
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785080838/gxkyqjplis4pvpc4lrzk.jpg",
     "discountRetailPercent": 0,
     "retailMargin": 0,
     "category": "makeup",
-    "status": "متوفر",
+    "status": "غير متوفر",
     "manualRetailSYP": 0,
     "roundTo": 1
   },
@@ -10004,12 +10004,12 @@
     "roundTo": 1,
     "status": "متوفر",
     "discountRetailPercent": 0,
-    "name": "براية مكياج علبة",
+    "name": "براية مكياج علبة 119064",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785686833/ca3ppj5hmhrlklcokf66.webp",
     "desc": "",
     "costUSD": 0.23,
     "category": "makeup",
-    "subCategory": "مكياج عيون وحواجب",
+    "subCategory": "",
     "retailMargin": 0,
     "manualRetailSYP": 0
   },
@@ -10090,11 +10090,12 @@
     "discountRetailPercent": 0,
     "status": "متوفر",
     "imageUrl": "https://i.ibb.co/8gwSqp4M/1783413302806653097004145008103.jpg",
-    "name": "كريم اساس NYX سعة 30ml",
+    "name": "كريم اساس NYX سعة 30ml 117006",
     "retailMargin": 0,
     "category": "makeup",
     "manualRetailSYP": 0,
-    "subCategory": "مكياج وجه"
+    "subCategory": "",
+    "roundTo": 1
   },
   {
     "id": "dAHRQVT101jp4PR8ious",
