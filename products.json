@@ -13020,16 +13020,17 @@
   },
   {
     "id": "pnTkGnEflFC5g8cHs3fB",
-    "subCategory": "اظلال وهايلايتر",
+    "subCategory": "",
     "manualRetailSYP": 0,
     "category": "makeup",
-    "name": "ظل دودو غيرل 18 لون",
+    "name": "ظل دودو غيرل 18 لون 119049",
     "status": "متوفر",
     "discountRetailPercent": 0,
     "costUSD": 1.1667,
     "imageUrl": "https://i.ibb.co/yBBJrJBZ/IMG.jpg",
     "retailMargin": 0,
-    "desc": ""
+    "desc": "",
+    "roundTo": 1
   },
   {
     "id": "psGRKhnnb5GvZ6q6hMZL",
@@ -13217,16 +13218,17 @@
   },
   {
     "id": "qdAUbDiBpHoecCEdsVwP",
-    "name": "ظل دودو غيرل 24 لون مع هايلايتر",
+    "name": "ظل دودو غيرل 24 لون مع هايلايتر 119060",
     "manualRetailSYP": 0,
     "costUSD": 1.5417,
     "retailMargin": 0,
-    "subCategory": "اظلال وهايلايتر",
+    "subCategory": "",
     "discountRetailPercent": 0,
     "imageUrl": "https://i.ibb.co/TMCq56Lj/IMG.jpg",
-    "status": "متوفر",
+    "status": "غير متوفر",
     "category": "makeup",
-    "desc": ""
+    "desc": "",
+    "roundTo": 1
   },
   {
     "id": "qiKGMK4fk48CkQDu5Pwi",
@@ -13800,15 +13802,16 @@
   {
     "id": "t9jGE5GwzHHOIifzmciz",
     "category": "beauty_care",
-    "subCategory": "عناية اظافر",
+    "subCategory": "",
     "imageUrl": "https://i.ibb.co/fYLwbt7b/IMG-20260706-123646.jpg",
     "desc": "",
-    "status": "متوفر",
-    "name": "اظافر ارجل ملونة",
+    "status": "غير متوفر",
+    "name": "اظافر ارجل ملونة 1120635",
     "retailMargin": 0,
     "manualRetailSYP": 0,
     "discountRetailPercent": 0,
-    "costUSD": 0.5625
+    "costUSD": 0.5625,
+    "roundTo": 1
   },
   {
     "id": "tCH3ovYaQHKE76zBafXD",
