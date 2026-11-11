@@ -13367,12 +13367,13 @@
     "retailMargin": 0,
     "discountRetailPercent": 0,
     "desc": "",
-    "subCategory": "مكياج",
+    "subCategory": "",
     "status": "متوفر",
     "costUSD": 1,
     "imageUrl": "https://i.ibb.co/fz3v6rQB/IMG.jpg",
     "category": "makeup",
-    "name": "قلم ايلاينر ابيض ثقيل"
+    "name": "قلم ايلاينر ابيض ثقيل 118063",
+    "roundTo": 1
   },
   {
     "id": "r8FITEPnN6E3YE5BQHoA",
