@@ -14211,12 +14211,13 @@
     "imageUrl": "https://i.ibb.co/Kz22MkPr/178341339357276834820130803501.jpg",
     "desc": "",
     "retailMargin": 0,
-    "subCategory": "مكياج",
+    "subCategory": "",
     "category": "makeup",
     "status": "متوفر",
-    "name": "برايمر لافي بل اصلي",
+    "name": "برايمر لافي بيل اصلي 1170304",
     "manualRetailSYP": 0,
-    "costUSD": 2.583
+    "costUSD": 2.583,
+    "roundTo": 1
   },
   {
     "id": "v2nLIM8ZqyVkQTzwZsSo",
@@ -14485,16 +14486,17 @@
   },
   {
     "id": "w2ijFnNzvwZrFVdkDIBF",
-    "name": "ظل دودو غير 12 لون",
+    "name": "ظل دودو غيرل 12 لون 119048",
     "status": "متوفر",
     "costUSD": 1.2083,
     "imageUrl": "https://i.ibb.co/C38yY3gM/IMG.jpg",
     "desc": "",
     "manualRetailSYP": 0,
-    "subCategory": "اظلال وهايلايتر",
+    "subCategory": "",
     "category": "makeup",
     "discountRetailPercent": 0,
-    "retailMargin": 0
+    "retailMargin": 0,
+    "roundTo": 1
   },
   {
     "id": "wA5KfyyyHeitY9exjJXM",
@@ -14595,12 +14597,13 @@
     "discountRetailPercent": 0,
     "costUSD": 1.1785,
     "desc": "",
-    "subCategory": "اظلال وهايلايتر",
-    "name": "ظل غلتر سي دي",
+    "subCategory": "",
+    "name": "ظل غلاتر سيدي 115080",
     "category": "makeup",
     "manualRetailSYP": 0,
     "status": "متوفر",
-    "imageUrl": "https://i.ibb.co/qYmLw8ts/IMG.jpg"
+    "imageUrl": "https://i.ibb.co/qYmLw8ts/IMG.jpg",
+    "roundTo": 1
   },
   {
     "id": "wXCsrvIX0gMlHXCT8FsA",
