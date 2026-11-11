@@ -2030,7 +2030,7 @@
     "retailMargin": 0,
     "name": "واقي شمسي بيوديرما 40 غ 1101041",
     "roundTo": 1,
-    "status": "متوفر",
+    "status": "غير متوفر",
     "costUSD": 0.75
   },
   {
@@ -2700,7 +2700,7 @@
     "subCategory": "",
     "retailMargin": 0,
     "roundTo": 1,
-    "status": "متوفر",
+    "status": "غير متوفر",
     "costUSD": 0.8625,
     "name": "محارم مزيل مكياج ماجيك 40 منديل 121002"
   },
@@ -2724,7 +2724,7 @@
     "discountRetailPercent": 0,
     "retailMargin": 0,
     "costUSD": 3.25,
-    "status": "متوفر",
+    "status": "غير متوفر",
     "imageUrl": "https://i.ibb.co/0VR0Fvgd/IMG-20260704-133219.jpg",
     "subCategory": "",
     "name": "بلسم الفيف 360 مل 111082",
@@ -2737,12 +2737,12 @@
     "category": "beauty_care",
     "discountRetailPercent": 0,
     "manualRetailSYP": 0,
-    "status": "متوفر",
+    "status": "غير متوفر",
     "imageUrl": "https://i.ibb.co/8nBGS9Bf/IMG-20260705-121850-273-1752391458.jpg",
     "subCategory": "",
     "name": "بديل زيت بانتين اصلي 275 مل 111074",
     "desc": "",
-    "costUSD": 2.26,
+    "costUSD": 3,
     "roundTo": 1
   },
   {
@@ -2753,7 +2753,7 @@
     "category": "beauty_care",
     "subCategory": "",
     "roundTo": 1,
-    "status": "متوفر",
+    "status": "غير متوفر",
     "discountRetailPercent": 0,
     "retailMargin": 0,
     "name": "بديل زيت فاتيكا 200 مل 102129",
@@ -2775,30 +2775,31 @@
   },
   {
     "id": "AxE0hpw23CUXXnwldokq",
-    "subCategory": "ادوات تجميل",
+    "subCategory": "",
     "category": "beauty_care",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785074717/awqzfaiolmurat68sokb.jpg",
     "retailMargin": 0,
     "manualRetailSYP": 0,
-    "name": "ليفة حمام مغربي اني كلاين فرفشة",
+    "name": "ليفة حمام مغربي اني كلاين فرفشة 10466",
     "roundTo": 1,
     "desc": "",
     "discountRetailPercent": 0,
-    "status": "متوفر",
+    "status": "غير متوفر",
     "costUSD": 0.475
   },
   {
     "id": "B5Cm4i7OGaocMuVFjR1C",
     "manualRetailSYP": 0,
     "category": "beauty_care",
-    "name": "طقم بلاندر شنتاية مع دولاب 7 قطع",
+    "name": "طقم بلاندر شنتاية مع دولاب 7 قطع 119055",
     "imageUrl": "https://i.ibb.co/m54bgCV0/IMG.jpg",
     "status": "متوفر",
     "retailMargin": 0,
     "discountRetailPercent": 0,
     "desc": "",
-    "subCategory": "ادوات تجميل",
-    "costUSD": 1
+    "subCategory": "",
+    "costUSD": 1,
+    "roundTo": 1
   },
   {
     "id": "BEGY787OuVaIOErwqWeE",
@@ -2808,14 +2809,15 @@
     "manualRetailSYP": 0,
     "status": "متوفر",
     "imageUrl": "https://i.ibb.co/MWKG3k8/IMG.jpg",
-    "subCategory": "عناية بشرة",
-    "name": "كريم جليسوليد عصارة 30 مل",
+    "subCategory": "",
+    "name": "كريم كالوسوليد عصارة 30 مل 102056",
     "desc": "",
-    "costUSD": 0.5
+    "costUSD": 0.5,
+    "roundTo": 1
   },
   {
     "id": "BF3qw81jj5IMybuwEyyo",
-    "subCategory": "عناية صحية",
+    "subCategory": "",
     "retailMargin": 0,
     "desc": "",
     "discountRetailPercent": 0,
@@ -2824,7 +2826,8 @@
     "imageUrl": "https://i.ibb.co/d0WLvfrZ/IMG-20260706-135248.jpg",
     "name": "شفرات تريت بلاتينيوم مزدوجة 10412809",
     "category": "beauty_care",
-    "costUSD": 0.1032
+    "costUSD": 0.1032,
+    "roundTo": 1
   },
   {
     "id": "BHXpsvLZoRuTne4QsVfs",
@@ -2869,11 +2872,11 @@
   {
     "id": "BXqsmIpjwUV9kVyNJLWB",
     "category": "beauty_care",
-    "name": "اني كلاين كريم مطري يدين عالي الجودة",
+    "name": "اني كلاين كريم مطري يدين عالي الجودة 10457",
     "manualRetailSYP": 0,
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785068975/pboincmzu00dysppbnar.jpg",
     "retailMargin": 0,
-    "subCategory": "عناية بشرة",
+    "subCategory": "",
     "roundTo": 1,
     "costUSD": 0.605,
     "discountRetailPercent": 0,
@@ -2950,15 +2953,16 @@
   {
     "id": "CA9TA0aBfTnSwmCSiwqa",
     "imageUrl": "https://i.ibb.co/BHDD2gpK/IMG.jpg",
-    "name": "بودرة انشانتير 250 مل",
-    "costUSD": 1.945,
+    "name": "بودرة انشانتير 250 مل 104019",
+    "costUSD": 2.0833,
     "status": "متوفر",
     "discountRetailPercent": 0,
     "category": "beauty_care",
     "manualRetailSYP": 0,
     "retailMargin": 0,
     "desc": "",
-    "subCategory": "عناية بشرة"
+    "subCategory": "",
+    "roundTo": 1
   },
   {
     "id": "CCGNXMeRhhIrBTcVv9sR",
@@ -2976,14 +2980,14 @@
   {
     "id": "CCxOUyNirCYaEyMEZkrh",
     "desc": "",
-    "subCategory": "عناية اظافر",
+    "subCategory": "",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785091341/yaivdc0umjmxphvixa9x.jpg",
     "manualRetailSYP": 0,
     "category": "beauty_care",
     "retailMargin": 0,
     "roundTo": 1,
     "status": "متوفر",
-    "name": "مناكير اكوا ديور",
+    "name": "مناكير اكوا ديور 112058",
     "discountRetailPercent": 0,
     "costUSD": 0.37
   },
@@ -3005,41 +3009,43 @@
     "id": "CKLlR5JBsG1IkE1N6XaG",
     "category": "beauty_care",
     "status": "متوفر",
-    "name": "اظافر فرينش ملون لاروس",
-    "costUSD": 0.4792,
+    "name": "اظافر فرينش ملون لاروس 1120611",
+    "costUSD": 0.5,
     "imageUrl": "https://i.ibb.co/MDbT0tMN/IMG-20260706-124851.jpg",
-    "subCategory": "عناية اظافر",
+    "subCategory": "",
     "manualRetailSYP": 0,
     "retailMargin": 0,
     "discountRetailPercent": 0,
-    "desc": ""
+    "desc": "",
+    "roundTo": 1
   },
   {
     "id": "CKSUixZUClpgdK4QvcuS",
     "retailMargin": 0,
     "desc": "",
-    "name": "زيت ثمرة املا السحرية للشعر 250مل",
+    "name": "زيت ثمرة املا السحرية للشعر 250مل 111070",
     "category": "beauty_care",
     "roundTo": 1,
     "manualRetailSYP": 0,
     "status": "متوفر",
     "costUSD": 0.9,
     "discountRetailPercent": 0,
-    "subCategory": "عناية شعر",
+    "subCategory": "",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785082326/bzv2ivsaymwvmxx4fsts.jpg"
   },
   {
     "id": "CM8T7R566BVuCTWP949n",
     "desc": "",
-    "subCategory": "عناية بشرة",
+    "subCategory": "",
     "imageUrl": "https://i.ibb.co/vvHmtC4q/IMG.jpg",
     "manualRetailSYP": 0,
     "category": "beauty_care",
     "retailMargin": 0,
-    "status": "متوفر",
-    "name": "Sudocrem سودو كريم 60 غ",
+    "status": "غير متوفر",
+    "name": "Sudocrem سودو كريم 60 غ 102121",
     "costUSD": 3.9037,
-    "discountRetailPercent": 0
+    "discountRetailPercent": 0,
+    "roundTo": 1
   },
   {
     "id": "CMlIA3zCu3dDEGl8GvL5",
@@ -3083,12 +3089,12 @@
   {
     "id": "Cc77FPhiAIqXlUAACWcp",
     "category": "beauty_care",
-    "name": "وافي شمسي هني كير 80",
-    "status": "متوفر",
+    "name": "وافي شمسي هني كير 80 10100",
+    "status": "غير متوفر",
     "costUSD": 1.4924,
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1787651131/aj7pp01ddk2wqxd8g1s7.webp",
     "roundTo": 1,
-    "subCategory": "مستلزمات اطفال",
+    "subCategory": "",
     "manualRetailSYP": 0,
     "retailMargin": 0,
     "discountRetailPercent": 0,
@@ -4772,12 +4778,13 @@
     "manualRetailSYP": 0,
     "desc": "",
     "imageUrl": "https://i.ibb.co/XkJzbzVY/IMG-20260705-123204-420-415828825.jpg",
-    "subCategory": "عناية شعر",
+    "subCategory": "",
     "name": "شامبو الفيف اصلي 400 مل",
     "retailMargin": 0,
     "status": "متوفر",
-    "costUSD": 3.13,
-    "discountRetailPercent": 0
+    "costUSD": 3.3767,
+    "discountRetailPercent": 0,
+    "roundTo": 1
   },
   {
     "id": "II58kRVC9r1DfrLeC3Sz",
@@ -8705,13 +8712,14 @@
     "desc": "",
     "discountRetailPercent": 0,
     "status": "متوفر",
-    "costUSD": 0.609,
+    "costUSD": 0.5625,
     "imageUrl": "https://i.ibb.co/vCRtQmDC/IMG.jpg",
-    "subCategory": "عناية بشرة",
+    "subCategory": "",
     "manualRetailSYP": 0,
-    "name": "كريم بانتينول بالعسل مع فيتامين E",
+    "name": "كريم بانتينول بالعسل مع فيتامين 102011E",
     "retailMargin": 0,
-    "category": "beauty_care"
+    "category": "beauty_care",
+    "roundTo": 1
   },
   {
     "id": "YBPNFQtUdwVd4ChqPPZn",
@@ -11246,11 +11254,12 @@
     "desc": "",
     "manualRetailSYP": 0,
     "category": "beauty_care",
-    "costUSD": 0.44,
-    "subCategory": "عناية اظافر",
+    "costUSD": 0.464,
+    "subCategory": "",
     "status": "متوفر",
     "imageUrl": "https://i.ibb.co/5hLwRk33/IMG.jpg",
-    "name": "مناكير سوبر ستاي"
+    "name": "مناكير سوبر ستاي 112002",
+    "roundTo": 1
   },
   {
     "id": "iGshUu5hFkuh7A2XCR42",
@@ -12163,12 +12172,13 @@
     "discountRetailPercent": 0,
     "manualRetailSYP": 0,
     "retailMargin": 0,
-    "name": "بديل زيت MMT الاصلي",
-    "status": "متوفر",
-    "subCategory": "عناية شعر",
+    "name": "بديل زيت MMT الاصلي 118076",
+    "status": "غير متوفر",
+    "subCategory": "",
     "desc": "",
     "category": "beauty_care",
-    "imageUrl": "https://i.ibb.co/9k9pZBG1/IMG-20260704-133527.jpg"
+    "imageUrl": "https://i.ibb.co/9k9pZBG1/IMG-20260704-133527.jpg",
+    "roundTo": 1
   },
   {
     "id": "mLztHJvwDCaQYEeI8gFx",
@@ -13715,15 +13725,16 @@
   {
     "id": "seShLhVr3gN4EbD6X5Nf",
     "desc": "",
-    "status": "متوفر",
+    "status": "غير متوفر",
     "manualRetailSYP": 0,
     "category": "beauty_care",
-    "costUSD": 3,
+    "costUSD": 3.083,
     "imageUrl": "https://i.ibb.co/0pX4R0kJ/IMG-20260705-122443-847-496323854.jpg",
     "retailMargin": 0,
     "discountRetailPercent": 0,
-    "subCategory": "عناية شعر",
-    "name": "شامبو بانتين اصلي 400 مل"
+    "subCategory": "",
+    "name": "شامبو بانتين اصلي 400 مل 111060",
+    "roundTo": 1
   },
   {
     "id": "sgAnGxPQ5YwG4Evd3lcq",
