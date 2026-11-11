@@ -11961,14 +11961,15 @@
     "id": "lUPTV60ioyX0GfCwaXyc",
     "discountRetailPercent": 0,
     "manualRetailSYP": 0,
-    "name": "ظل رومانتك 12 لون",
+    "name": "ظل رومانتك 12 لون 1040564",
     "status": "متوفر",
     "costUSD": 0.8846,
     "imageUrl": "https://i.ibb.co/35CG3PC7/IMG.jpg",
     "desc": "",
-    "subCategory": "اظلال وهايلايتر",
+    "subCategory": "",
     "category": "makeup",
-    "retailMargin": 0
+    "retailMargin": 0,
+    "roundTo": 1
   },
   {
     "id": "lYBQh1MLde7WIUigZnLN",
@@ -13981,12 +13982,13 @@
     "imageUrl": "https://i.ibb.co/fGHNyM03/IMG.jpg",
     "desc": "",
     "retailMargin": 0,
-    "subCategory": "مكياج",
+    "subCategory": "",
     "category": "makeup",
     "status": "متوفر",
     "manualRetailSYP": 0,
-    "name": "كزنسيلر هدى بيوتي",
-    "costUSD": 0.666
+    "name": "كونسيلر هدى بيوتي 115216",
+    "costUSD": 0.666,
+    "roundTo": 1
   },
   {
     "id": "tjJ3fX0SALtaFGslC1iP",
@@ -14030,15 +14032,16 @@
   {
     "id": "tvdkukXhXJyg4vPLEff2",
     "desc": "",
-    "status": "متوفر",
+    "status": "غير متوفر",
     "retailMargin": 0,
     "discountRetailPercent": 0,
     "category": "makeup",
     "manualRetailSYP": 0,
-    "subCategory": "مكياج عيون وحواجب",
-    "costUSD": 1.205,
+    "subCategory": "",
+    "costUSD": 1.25,
     "imageUrl": "https://i.ibb.co/q3tFJdFw/IMG.jpg",
-    "name": "اي لاينر سيفرون"
+    "name": "اي لاينر سيفرون 118012",
+    "roundTo": 1
   },
   {
     "id": "tywG0KLhsJN4Gi4tZ482",
@@ -14082,7 +14085,7 @@
   },
   {
     "id": "uAbCtiSlRtboVtcrQvsI",
-    "name": "اي لاينر كيس بيوتي جرة",
+    "name": "ايلاينر كيس بيوتي جرة 1181097",
     "discountRetailPercent": 0,
     "retailMargin": 0,
     "desc": "",
@@ -14092,7 +14095,7 @@
     "costUSD": 0.5,
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785686389/yj5uo7s0pz6kbdbtkwhk.webp",
     "status": "متوفر",
-    "subCategory": "مكياج عيون وحواجب"
+    "subCategory": ""
   },
   {
     "id": "uAlT2XPbf8evmvTv5HQN",
@@ -14130,8 +14133,9 @@
     "discountRetailPercent": 0,
     "manualRetailSYP": 0,
     "costUSD": 1.0833,
-    "name": "مثبت مكياج سويت هيرت",
-    "subCategory": "مكياج وجه"
+    "name": "مثبت مكياج سويت هارت 1170339",
+    "subCategory": "",
+    "roundTo": 1
   },
   {
     "id": "uSE2TWPopQhX436MvuKp",
@@ -14163,15 +14167,16 @@
   {
     "id": "uZDthuEAYH24oSs60LXX",
     "manualRetailSYP": 0,
-    "status": "متوفر",
+    "status": "غير متوفر",
     "costUSD": 1.125,
     "retailMargin": 0,
     "desc": "",
     "discountRetailPercent": 0,
-    "name": "هاي لايتر ستيتش",
+    "name": "هايلايتر ستيتش 1170306",
     "imageUrl": "https://i.ibb.co/JjJBV93r/IMG.jpg",
-    "subCategory": "اظلال وهايلايتر",
-    "category": "makeup"
+    "subCategory": "",
+    "category": "makeup",
+    "roundTo": 1
   },
   {
     "id": "ujegbbqwpcj0x9ZDkcql",
