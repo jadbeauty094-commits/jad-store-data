@@ -3174,27 +3174,29 @@
     "id": "CrNCpmZgHpwtSQMYAogQ",
     "costUSD": 0.1747,
     "manualRetailSYP": 0,
-    "status": "متوفر",
+    "status": "غير متوفر",
     "desc": "",
     "name": "رموش ANJEER",
     "imageUrl": "https://i.ibb.co/vybzww1/IMG.jpg",
-    "subCategory": "مكياج عيون وحواجب",
+    "subCategory": "",
     "category": "beauty_care",
     "retailMargin": 0,
-    "discountRetailPercent": 0
+    "discountRetailPercent": 0,
+    "roundTo": 1
   },
   {
     "id": "Cu7Uz1k77kaLl4QqqAOI",
     "name": "زيت جونسون 300 مل",
     "manualRetailSYP": 0,
-    "subCategory": "مستلزمات اطفال",
+    "subCategory": "",
     "imageUrl": "https://i.ibb.co/sYDgm7z/IMG.jpg",
-    "costUSD": 2.8333,
+    "costUSD": 0,
     "category": "beauty_care",
     "discountRetailPercent": 0,
     "retailMargin": 0,
-    "status": "متوفر",
-    "desc": ""
+    "status": "غير متوفر",
+    "desc": "",
+    "roundTo": 1
   },
   {
     "id": "CuaqmLipS6guIekiTuLp",
@@ -3240,14 +3242,15 @@
     "id": "D0bpz5wthBGPtopPMYcF",
     "retailMargin": 0,
     "status": "متوفر",
-    "subCategory": "عناية بشرة",
-    "name": "تاكت زيت السعد 30 مل",
+    "subCategory": "",
+    "name": "تاكت زيت السعد 30 مل 1040529",
     "manualRetailSYP": 0,
     "costUSD": 1.7083,
     "discountRetailPercent": 0,
     "desc": "",
     "imageUrl": "https://i.ibb.co/W468n2KP/IMG.jpg",
-    "category": "beauty_care"
+    "category": "beauty_care",
+    "roundTo": 1
   },
   {
     "id": "D0pZ0oQJ16KYM0RQyFfY",
@@ -3390,11 +3393,12 @@
     "manualRetailSYP": 0,
     "status": "متوفر",
     "costUSD": 4.35,
-    "name": "حمام زيت سكالا برازيلي",
+    "name": "حمام زيت سكالا برازيلي 102103",
     "category": "beauty_care",
     "desc": "",
     "discountRetailPercent": 0,
-    "subCategory": "عناية شعر"
+    "subCategory": "",
+    "roundTo": 1
   },
   {
     "id": "DXPr3MyfAzxZItQM4Xq6",
