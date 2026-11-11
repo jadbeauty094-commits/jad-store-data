@@ -5599,7 +5599,7 @@
     "desc": "",
     "costUSD": 1.9167,
     "name": "طقم فراشي مكياج ثقيل 7 قطع 119059",
-    "status": "متوفر",
+    "status": "غير متوفر",
     "roundTo": 1,
     "retailMargin": 0,
     "manualRetailSYP": 0,
@@ -8758,7 +8758,7 @@
     "retailMargin": 0,
     "costUSD": 0.913,
     "manualRetailSYP": 0,
-    "name": "جيل حواجب سوبر ستاي فلورمار",
+    "name": "جيل حواجب سوبر ستاي فلورمار 10463",
     "status": "متوفر",
     "subCategory": "",
     "desc": "",
@@ -8847,30 +8847,31 @@
   },
   {
     "id": "YdLIqqYKz0PubWl0S3Lb",
-    "subCategory": "مكياج شفاه",
-    "name": "غلوس رومانتك بيوتي فواكه",
+    "subCategory": "",
+    "name": "غلوس رومانتك بيوتي فواكه 1170326",
     "manualRetailSYP": 135,
     "roundTo": 1,
     "desc": "",
     "category": "makeup",
-    "status": "متوفر",
+    "status": "غير متوفر",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1786354566/aphibj5webr0o9kcyoae.webp",
-    "costUSD": 0.8,
+    "costUSD": 0.8274,
     "discountRetailPercent": 0,
     "retailMargin": 0
   },
   {
     "id": "YlA125D5IIwnIVdRVFUf",
-    "subCategory": "مكياج",
+    "subCategory": "",
     "imageUrl": "https://i.ibb.co/ccVpGrnY/IMG.jpg",
     "costUSD": 0.7083,
     "manualRetailSYP": 0,
     "desc": "",
-    "status": "متوفر",
+    "status": "غير متوفر",
     "discountRetailPercent": 0,
-    "name": "هايلايتر يارا",
+    "name": "هايلايتر يارا 1170322",
     "retailMargin": 0,
-    "category": "makeup"
+    "category": "makeup",
+    "roundTo": 1
   },
   {
     "id": "Yp1Df9wzy3jUFZATTeJG",
@@ -9010,7 +9011,7 @@
   },
   {
     "id": "ZI6n6cXYzoIwmWVyDHyL",
-    "subCategory": "مكياج شفاه",
+    "subCategory": "",
     "roundTo": 1,
     "discountRetailPercent": 0,
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1788088186/ulnp0ymgdmm6rf1wnspv.webp",
@@ -9019,7 +9020,7 @@
     "desc": "",
     "manualRetailSYP": 0,
     "costUSD": 0.29,
-    "name": "ماسك شفاه SADOR 93055",
+    "name": "ماسك شفاه SADOR 119071",
     "retailMargin": 0
   },
   {
@@ -9105,19 +9106,20 @@
   {
     "id": "ZgcorAA86t6dWtT32Iqm",
     "manualRetailSYP": 0,
-    "name": "هايلايتر قصب بودرة تاج",
+    "name": "هايلايتر قصب بودرة تاج 115209",
     "imageUrl": "https://i.ibb.co/WNNSP00K/IMG.jpg",
     "desc": "",
     "costUSD": 0.4167,
     "discountRetailPercent": 0,
-    "subCategory": "اظلال وهايلايتر",
+    "subCategory": "",
     "status": "متوفر",
     "retailMargin": 0,
-    "category": "makeup"
+    "category": "makeup",
+    "roundTo": 1
   },
   {
     "id": "Zl6jIBiJ2rOkfcKd6R4G",
-    "name": "حمرة قشر راسين oliBoLLA",
+    "name": "حمرة قشر راسين oliBoLLA 11903814",
     "costUSD": 0.625,
     "desc": "",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1786347315/z0xlnode2du6utj4fxbu.webp",
@@ -9269,12 +9271,13 @@
     "status": "متوفر",
     "costUSD": 0.3958,
     "discountRetailPercent": 0,
-    "subCategory": "مكياج",
-    "name": "بلاشر الوان مخملية",
+    "subCategory": "",
+    "name": "بلاشر الوان الصيف 1180707",
     "retailMargin": 0,
     "category": "makeup",
     "manualRetailSYP": 0,
-    "desc": ""
+    "desc": "",
+    "roundTo": 1
   },
   {
     "id": "aQ7ushQA8CFGBVTAC8lR",
@@ -9336,9 +9339,9 @@
     "imageUrl": "https://i.ibb.co/JWPzmKNM/IMG-20260707-101940.jpg",
     "desc": "",
     "costUSD": 3.0476,
-    "name": "كريم اساس ايميلي فول كفر",
+    "name": "كريم اساس ايميلي فول كفر 117037",
     "subCategory": "",
-    "status": "غير متوفر",
+    "status": "متوفر",
     "manualRetailSYP": 0,
     "roundTo": 1,
     "discountRetailPercent": 0,
@@ -9604,13 +9607,14 @@
     "manualRetailSYP": 0,
     "discountRetailPercent": 0,
     "desc": "",
-    "subCategory": "اظلال وهايلايتر",
+    "subCategory": "",
     "costUSD": 1.2083,
-    "name": "ظل دودو 12 لون",
+    "name": "ظل دودو 12 لون 119048",
     "category": "makeup",
     "imageUrl": "https://i.ibb.co/Sw6XjW2z/IMG.jpg",
     "retailMargin": 0,
-    "status": "متوفر"
+    "status": "متوفر",
+    "roundTo": 1
   },
   {
     "id": "bkSsDieTdryNstLczUJb",
@@ -9903,16 +9907,17 @@
   },
   {
     "id": "cT3PcjtqFh5mfqsxthcY",
-    "subCategory": "مكياج",
+    "subCategory": "",
     "imageUrl": "https://i.ibb.co/NnFRk1Qb/IMG.jpg",
     "discountRetailPercent": 0,
     "status": "متوفر",
-    "name": "بلاشر الوان الصيف",
+    "name": "بلاشر الوان الصيف 1180707",
     "category": "makeup",
     "manualRetailSYP": 0,
     "retailMargin": 0,
     "desc": "",
-    "costUSD": 0.3958
+    "costUSD": 0.3958,
+    "roundTo": 1
   },
   {
     "id": "cdcXUocHDhe6TpMzD0Xb",
