@@ -4353,10 +4353,10 @@
     "category": "hair_dyes",
     "discountRetailPercent": 0,
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785687740/p03ywun6txfpniwbsa2r.webp",
-    "name": "شامبو سيلفر ماجيك 500 ميل صالونات",
+    "name": "شامبو سيلفر ماجيك 500 ميل صالونات 111068",
     "status": "متوفر",
-    "costUSD": 1.6154,
-    "subCategory": "مواد للصبغة",
+    "costUSD": 1.5,
+    "subCategory": "",
     "manualRetailSYP": 0,
     "roundTo": 1,
     "retailMargin": 0
@@ -5426,13 +5426,14 @@
     "status": "متوفر",
     "manualRetailSYP": 0,
     "discountRetailPercent": 0,
-    "costUSD": 3.461,
+    "costUSD": 3.5714,
     "category": "hair_dyes",
     "desc": "بودرة تفتيح الشعر ماجيك تفتيح حتى 12 لون متوفر باللونين الابيض والازرق",
-    "subCategory": "مواد للصبغة",
-    "name": "بودرة ميش ماجيك لسحب اللون",
+    "subCategory": "",
+    "name": "بودرة ميش ماجيك لسحب اللون 500 غ 1220028",
     "retailMargin": 0,
-    "imageUrl": "https://i.ibb.co/v4709Fjq/IMG-20260704-120101.jpg"
+    "imageUrl": "https://i.ibb.co/v4709Fjq/IMG-20260704-120101.jpg",
+    "roundTo": 1
   },
   {
     "id": "L5ufhSALiwm77MNxy4cO",
@@ -6010,15 +6011,16 @@
   {
     "id": "NzJmUtNaPKRwoK2Mlf9T",
     "costUSD": 1,
-    "name": "صبغة اعشاب truvix",
+    "name": "صبغة اعشاب truvix 122063",
     "desc": "متوفر اربعة الوان \nبنفسجي كرزي دم الغزال ازرق",
     "retailMargin": 0,
     "discountRetailPercent": 0,
     "category": "hair_dyes",
     "status": "متوفر",
-    "subCategory": "صبغة سائلة",
+    "subCategory": "",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1784723369/ijnydd99vgxssqt2puf0.jpg",
-    "manualRetailSYP": 0
+    "manualRetailSYP": 0,
+    "roundTo": 1
   },
   {
     "id": "O7NHBfyCxv6r9P6ih9fK",
@@ -6156,17 +6158,18 @@
     "id": "OcNMTA2F8zLbBQzylIHc",
     "manualRetailSYP": 0,
     "manualWholesaleSYP": 0,
-    "subCategory": "شامبو صبغة",
-    "name": "شامبو صبغة هيربل",
+    "subCategory": "",
+    "name": "شامبو صبغة هيربل 1180048",
     "wholesaleMargin": 0,
     "discountWholesalePercent": 0,
     "imageUrl": "https://i.ibb.co/d0M5V6pz/IMG-20260704-115411.jpg",
     "retailMargin": 15,
-    "costUSD": 2.2083,
+    "costUSD": 2.25,
     "status": "متوفر",
     "discountRetailPercent": 0,
     "category": "hair_dyes",
-    "desc": "شامبو صبغة بالاعشاب مغذية للشعر خال من الرصاص والامونيا تغطية مثالية للشعر الابيض يمنحك شعر صحي ولامع"
+    "desc": "شامبو صبغة بالاعشاب مغذية للشعر خال من الرصاص والامونيا تغطية مثالية للشعر الابيض يمنحك شعر صحي ولامع",
+    "roundTo": 1
   },
   {
     "id": "OdIgbqcyBW5aYkuSf8EE",
@@ -6320,18 +6323,19 @@
   {
     "id": "PSzX3kS1SjSICqsEEx5G",
     "category": "hair_dyes",
-    "name": "صبغة كايلي 110 مل",
+    "name": "صبغة كايلي 110 مل 122021",
     "retailMargin": 0,
     "status": "متوفر",
     "manualWholesaleSYP": 0,
     "discountRetailPercent": 0,
     "desc": "",
     "costUSD": 1.1125,
-    "subCategory": "صبغات شعر",
+    "subCategory": "",
     "imageUrl": "https://i.ibb.co/TDFcXJn0/IMG-20260704-115626.jpg",
     "manualRetailSYP": 0,
     "wholesaleMargin": 0,
-    "discountWholesalePercent": 0
+    "discountWholesalePercent": 0,
+    "roundTo": 1
   },
   {
     "id": "PUl445CRLVa012xAq93I",
@@ -7320,18 +7324,19 @@
   {
     "id": "TAAsdJGkVgsaZPU9igJX",
     "discountWholesalePercent": 0,
-    "subCategory": "صبغات شعر",
+    "subCategory": "",
     "status": "متوفر",
     "category": "hair_dyes",
     "desc": "",
     "manualRetailSYP": 0,
     "discountRetailPercent": 0,
-    "costUSD": 1,
+    "costUSD": 0.75,
     "manualWholesaleSYP": 0,
     "wholesaleMargin": 0,
     "imageUrl": "https://i.ibb.co/gL4sGSWY/IMG-20260704-115108.jpg",
     "retailMargin": 15,
-    "name": "صبغة كومبانيا ايطالية"
+    "name": "صبغة كومبانيا ايطالية 122020",
+    "roundTo": 1
   },
   {
     "id": "TBko8O4Ty328IB4Z2jt6",
