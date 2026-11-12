@@ -3837,13 +3837,14 @@
     "retailMargin": 0,
     "category": "hair_dyes",
     "discountRetailPercent": 0,
-    "status": "متوفر",
+    "status": "غير متوفر",
     "imageUrl": "https://i.ibb.co/TxGrrScr/IMG-20260704-120039.jpg",
     "desc": "بودرة ميش فعالية عالية امنة وصحية على الشعر متوفرة لونين ابيض وازرق معتمدة لدى جميع صالونات التجميل",
     "manualRetailSYP": 0,
-    "subCategory": "مواد للصبغة",
-    "name": "ميش بودرة سبانجل 500 غ",
-    "costUSD": 3.625
+    "subCategory": "",
+    "name": "ميش بودرة سبانجل 500 غ 122035",
+    "costUSD": 3.625,
+    "roundTo": 1
   },
   {
     "id": "F8GDwNZ0wpQiG4hnycT4",
@@ -11493,13 +11494,14 @@
     "status": "متوفر",
     "desc": "اوكسيدانت لصبغات الشعر متوفر بعيارات 20,30,40,60 ليلبي كافة الاحتياجات",
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1784964754/xgself32eqqpdql4zemn.jpg",
-    "subCategory": "مواد للصبغة",
+    "subCategory": "",
     "category": "hair_dyes",
-    "name": "اوكسيدانت لتر سبانجل",
+    "name": "اوكسيدانت سبانجل لتر 122012",
     "discountRetailPercent": 0,
     "manualRetailSYP": 0,
     "retailMargin": 0,
-    "costUSD": 0.96
+    "costUSD": 0.96,
+    "roundTo": 1
   },
   {
     "id": "jPNAf5AbbUgrsKPnRdiH",
