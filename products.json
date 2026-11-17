@@ -4812,17 +4812,17 @@
   },
   {
     "id": "Hrhw3Eq5Zc5JnfrbT5Py",
-    "status": "متوفر",
-    "subCategory": "عناية صحية",
+    "status": "غير متوفر",
+    "subCategory": "",
     "roundTo": 1,
     "discountRetailPercent": 0,
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785688214/ise6bco7gjujejwzh8yq.webp",
-    "costUSD": 0.7083,
+    "costUSD": 0.7575,
     "manualRetailSYP": 0,
     "category": "beauty_care",
     "desc": "",
     "retailMargin": 0,
-    "name": "كريم كعب الغزال يارا"
+    "name": "كريم كعب الغزال يارا 102015"
   },
   {
     "id": "Hv2XDCYSvgBx6uzlwz19",
@@ -9810,13 +9810,13 @@
     "manualRetailSYP": 0,
     "retailMargin": 0,
     "imageUrl": "https://res.cloudinary.com/qvsfezzw/image/upload/v1785688124/pakffuaww77vtd36y72c.webp",
-    "costUSD": 0.7083,
+    "costUSD": 0.76,
     "discountRetailPercent": 0,
     "roundTo": 1,
     "desc": "",
-    "status": "متوفر",
-    "subCategory": "عناية صحية",
-    "name": "كريم كعب الغزال ب.ب باودر"
+    "status": "غير متوفر",
+    "subCategory": "",
+    "name": "كريم كعب الغزال ب.ب باودر 102062"
   },
   {
     "id": "aw1j4EXn8AXvZNxS2zQX",
@@ -13611,16 +13611,17 @@
   },
   {
     "id": "q7JXCJj0HfBUpI9lsWiJ",
-    "status": "متوفر",
+    "status": "غير متوفر",
     "manualRetailSYP": 0,
     "discountRetailPercent": 0,
-    "subCategory": "عناية صحية",
-    "costUSD": 0.7667,
+    "subCategory": "",
+    "costUSD": 0.7575,
     "desc": "",
     "imageUrl": "https://i.ibb.co/4ZhjntZ9/IMG.jpg",
     "retailMargin": 0,
     "category": "beauty_care",
-    "name": "كريم كعب الغزال ماجيك"
+    "name": "كريم كعب الغزال ماجيك 102015",
+    "roundTo": 1
   },
   {
     "id": "qESEsUemlF2Gr4dXN2xL",
