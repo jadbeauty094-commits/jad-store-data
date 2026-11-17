@@ -4784,16 +4784,17 @@
   },
   {
     "id": "Hc5YssxqUbCVGQdhEgQd",
-    "subCategory": "عناية صحية",
+    "subCategory": "",
     "manualRetailSYP": 0,
     "category": "beauty_care",
-    "costUSD": 0.9,
+    "costUSD": 0.91,
     "discountRetailPercent": 0,
     "imageUrl": "https://i.ibb.co/Cs8TyTjy/IMG.jpg",
-    "name": "شمعة عسلية سحر العسل 100غ",
+    "name": "شمعة عسلية سحر العسل 100غ 103017",
     "retailMargin": 0,
     "status": "متوفر",
-    "desc": ""
+    "desc": "",
+    "roundTo": 1
   },
   {
     "id": "HqdXRvCI614pRfcdBtiJ",
